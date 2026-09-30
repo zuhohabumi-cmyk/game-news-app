@@ -1,0 +1,58 @@
+name: Daily Game News Update & Deploy
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    # 毎日 5:30 JST (前日の 20:30 UTC)。実行混雑時は遅延することがあります。
+    - cron: '30 20 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: game-news-pages
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    if: github.ref == 'refs/heads/main'
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out the standalone app
+        uses: actions/checkout@v4
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 24
+          cache: npm
+      - name: Install locked dependencies
+        run: npm ci --ignore-scripts --no-audit --no-fund
+      - name: Fetch news and build the site
+        run: npm run build
+      - name: Preserve the last successful source snapshot
+        shell: bash
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/data.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh game news data'
+            git push
+          fi
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+      - name: Upload the built site
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: public
+      - name: Publish the site
+        id: deployment
+        uses: actions/deploy-pages@v4
