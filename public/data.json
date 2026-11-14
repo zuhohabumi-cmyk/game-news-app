@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-14T00:55:47.315Z",
+  "updatedAt": "2026-11-14T23:59:21.979Z",
   "region": "JP",
   "categories": [
     "話題",
@@ -16,7 +16,7 @@
       "appId": 2860490,
       "kind": "game",
       "title": "ワロタ、俺の家のとなり魔王城www",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860490/0c1a20e2587a351171c6ef4d1a2e1f8bdc7dbbbe/header_japanese.jpg?t=1794494372",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2860490/0c1a20e2587a351171c6ef4d1a2e1f8bdc7dbbbe/header_japanese.jpg?t=1794634442",
       "steamUrl": "https://store.steampowered.com/app/2860490/",
       "releaseDate": "2026年11月12日",
       "comingSoon": false,
@@ -51,45 +51,92 @@
       ],
       "ranks": {
         "top_sellers": 1,
-        "specials": 1
+        "specials": 5
       },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
       "reviewsFetchedAt": null,
       "reviewStatus": "unavailable"
     },
     {
-      "id": "steam-5282510",
-      "appId": 5282510,
+      "id": "steam-2406770",
+      "appId": 2406770,
       "kind": "game",
-      "title": "Shadow Realms RPG",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5282510/29b55ac4e0ac5ff27139bec2bf0ffb8d9a1ca43b/header.jpg?t=1794615325",
-      "steamUrl": "https://store.steampowered.com/app/5282510/",
-      "releaseDate": "2026年11月13日",
+      "title": "Bodycam",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/b533bca55927692f0cf812ebb91c6e6e8f5cb4a6/header_alt_assets_4.jpg?t=1794683329",
+      "steamUrl": "https://store.steampowered.com/app/2406770/",
+      "releaseDate": "2024年6月7日",
       "comingSoon": false,
-      "originalPrice": 0,
-      "currentPrice": 0,
+      "originalPrice": 3900,
+      "currentPrice": 3120,
       "currency": "JPY",
-      "discountPercent": 0,
-      "saleEndsAt": null,
-      "offerType": "free-to-play",
+      "discountPercent": 20,
+      "saleEndsAt": "2026-11-20T21:00:00.000Z",
+      "offerType": "discount",
       "reviewLabel": null,
       "reviewCount": null,
       "positivePercent": null,
       "reviewScope": "全言語・全購入種別",
       "genres": [
-        "カジュアル",
+        "アクション",
+        "インディー",
         "MM（Massively Multiplayer）",
-        "RPG",
-        "無料プレイ"
+        "シミュレーション",
+        "ストラテジー",
+        "早期アクセス"
       ],
       "tags": [],
-      "supportedLanguages": "英語",
-      "japaneseSupported": false,
-      "description": "A free dark-fantasy idle RPG that keeps fighting in a strip above your taskbar while you work. One persistent world on Steam, web and Android with a single account: loot, world bosses, the endless Eternal, clan wars. No energy walls. Power ",
+      "supportedLanguages": "英語 * , フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, アラビア語, 日本語, 韓国語, ロシア語, 中国語（簡体字） * フル音声対応言語",
+      "japaneseSupported": true,
+      "description": "Bodycam は、Unreal Engine 5 での真のボディカメラ ビューを備えた初の戦術的マルチプレイヤー FPS です。接近戦は生々しくて騒々しいように感じられます。あらゆる角度、吹き出し、箇条書きが重要です。チームプレイ、戦術、クラッチ スキルが鍵となるフォトリアル マップで、デスマッチ、チーム デスマッチ、ウィングマンをプレイします HUDはありません。チームワークと戦術が勝敗を分けます。",
       "aiSummary": null,
       "categories": [
-        "新作"
+        "セール"
+      ],
+      "groups": [
+        "specials"
+      ],
+      "ranks": {
+        "specials": 1
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-4957240",
+      "appId": 4957240,
+      "kind": "game",
+      "title": "Airport 7",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4957240/4f4ca6af9f9e8e51d16647e89a3f9e2d0347dea3/header.jpg?t=1794699144",
+      "steamUrl": "https://store.steampowered.com/app/4957240/",
+      "releaseDate": "2026年11月14日",
+      "comingSoon": false,
+      "originalPrice": 655,
+      "currentPrice": 589,
+      "currency": "JPY",
+      "discountPercent": 10,
+      "saleEndsAt": null,
+      "offerType": "discount",
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "アドベンチャー",
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語 * , フランス語 * , イタリア語 * , ドイツ語 * , スペイン語 - スペイン * , アラビア語 * , 日本語 * , ロシア語 * , トルコ語 * , 韓国語 * , 中国語（簡体字） * , 中国語（繁体字） * * フル音声対応言語",
+      "japaneseSupported": true,
+      "description": "You are trapped in an endless airport terminal. Observe your surroundings carefully, find the anomalies, and find your way out.",
+      "aiSummary": null,
+      "categories": [
+        "新作",
+        "セール"
       ],
       "groups": [
         "new_releases"
@@ -97,19 +144,19 @@
       "ranks": {
         "new_releases": 1
       },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
       "reviewsFetchedAt": null,
       "reviewStatus": "unavailable"
     },
     {
-      "id": "steam-4433840",
-      "appId": 4433840,
+      "id": "steam-5082170",
+      "appId": 5082170,
       "kind": "game",
-      "title": "Starlit Archive: Idle Collector",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4433840/04ec81eb748667abc3576fc40b00be8ec724e757/header.jpg?t=1792951644",
-      "steamUrl": "https://store.steampowered.com/app/4433840/",
-      "releaseDate": "2026年11月13日",
+      "title": "Fruit Kombat",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5082170/0ea42d51c5bf098ce8881939199dbb149c18ca28/header.jpg?t=1793782794",
+      "steamUrl": "https://store.steampowered.com/app/5082170/",
+      "releaseDate": "2026年11月14日",
       "comingSoon": true,
       "originalPrice": null,
       "currentPrice": null,
@@ -122,14 +169,13 @@
       "positivePercent": null,
       "reviewScope": "全言語・全購入種別",
       "genres": [
-        "カジュアル",
-        "インディー",
-        "RPG"
+        "アクション",
+        "インディー"
       ],
       "tags": [],
-      "supportedLanguages": "英語, フランス語, ドイツ語, スペイン語 - スペイン, ポーランド語, ロシア語, 中国語（簡体字）, 日本語, 韓国語, ポルトガル語－ブラジル",
+      "supportedLanguages": "ポルトガル語－ブラジル * , 英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 中国語（簡体字）, 中国語（繁体字）, 韓国語, スペイン語－ラテンアメリカ, 日本語, ポーランド語, ロシア語, トルコ語, ウクライナ語, アラビア語, ポルトガル語－ポルトガル * フル音声対応言語",
       "japaneseSupported": true,
-      "description": "きらめく美少女たちを、あなたのペースでじっくり育てる放置・収集ゲーム。バトルも仲間集めもレベルアップも自動。クリック連打やこまめな育成操作に追われず、ゲームを起動しておくだけで仲間たちが育ちます。気が向いたときには、集まった装備や編成を見直して、お気に入りとともにさらなる大ダメージを目指そう！",
+      "description": "バズった果物ドロ沼ドラマが、カオスな3D格闘ゲームに。果物たちがジムで決着をつける横で、昼ドラ級の裏切りと誰も望んでいない告白が展開。オーラを稼いで武器の必殺技を解放し、オフライン対戦とSteamのオンラインPvPで戦おう。",
       "aiSummary": null,
       "categories": [
         "新作"
@@ -140,8 +186,8 @@
       "ranks": {
         "coming_soon": 1
       },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
       "reviewsFetchedAt": null,
       "reviewStatus": "unavailable"
     },
@@ -185,142 +231,8 @@
         "top_sellers": 2,
         "specials": 4
       },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-2406770",
-      "appId": 2406770,
-      "kind": "game",
-      "title": "Bodycam",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/b533bca55927692f0cf812ebb91c6e6e8f5cb4a6/header_alt_assets_4.jpg?t=1794590337",
-      "steamUrl": "https://store.steampowered.com/app/2406770/",
-      "releaseDate": "2024年6月7日",
-      "comingSoon": false,
-      "originalPrice": 3900,
-      "currentPrice": 3120,
-      "currency": "JPY",
-      "discountPercent": 20,
-      "saleEndsAt": "2026-11-20T21:00:00.000Z",
-      "offerType": "discount",
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "アクション",
-        "インディー",
-        "MM（Massively Multiplayer）",
-        "シミュレーション",
-        "ストラテジー",
-        "早期アクセス"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語 * , フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, アラビア語, 日本語, 韓国語, ロシア語, 中国語（簡体字） * フル音声対応言語",
-      "japaneseSupported": true,
-      "description": "Bodycam は、Unreal Engine 5 での真のボディカメラ ビューを備えた初の戦術的マルチプレイヤー FPS です。接近戦は生々しくて騒々しいように感じられます。あらゆる角度、吹き出し、箇条書きが重要です。チームプレイ、戦術、クラッチ スキルが鍵となるフォトリアル マップで、デスマッチ、チーム デスマッチ、ウィングマンをプレイします HUDはありません。チームワークと戦術が勝敗を分けます。",
-      "aiSummary": null,
-      "categories": [
-        "セール"
-      ],
-      "groups": [
-        "specials"
-      ],
-      "ranks": {
-        "specials": 2
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-4175050",
-      "appId": 4175050,
-      "kind": "game",
-      "title": "No One to See – Pinebark Camp",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4175050/32632772747165c7fd9c376d3e0dc96b85b559ef/header.jpg?t=1794614500",
-      "steamUrl": "https://store.steampowered.com/app/4175050/",
-      "releaseDate": "2026年11月13日",
-      "comingSoon": false,
-      "originalPrice": 475,
-      "currentPrice": 313,
-      "currency": "JPY",
-      "discountPercent": 34,
-      "saleEndsAt": null,
-      "offerType": "discount",
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "アドベンチャー",
-        "カジュアル",
-        "インディー"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語, フランス語, ドイツ語, スペイン語 - スペイン, 中国語（簡体字）, 日本語, ポルトガル語－ブラジル, イタリア語, 中国語（繁体字）, 韓国語, ポーランド語, ロシア語, トルコ語",
-      "japaneseSupported": true,
-      "description": "つらい時期を過ごしていたイーサンは、ひとりでパインバークの森へキャンプに行くことにした。数日だけでもすべてから離れ、静けさの中で過ごしたかった。だが彼は知らなかった。パインバークでは、その静けさもまた耳を澄ませていることを。",
-      "aiSummary": null,
-      "categories": [
-        "新作",
-        "セール"
-      ],
-      "groups": [
-        "new_releases"
-      ],
-      "ranks": {
-        "new_releases": 2
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-4382510",
-      "appId": 4382510,
-      "kind": "game",
-      "title": "モン娘ダイスボード",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4382510/aa3cf46106111cda894bde4a0e2e2415650b9f10/header_japanese.jpg?t=1794291804",
-      "steamUrl": "https://store.steampowered.com/app/4382510/",
-      "releaseDate": "2026年11月13日",
-      "comingSoon": true,
-      "originalPrice": null,
-      "currentPrice": null,
-      "currency": null,
-      "discountPercent": 0,
-      "saleEndsAt": null,
-      "offerType": null,
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "インディー",
-        "RPG",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "tags": [],
-      "supportedLanguages": "日本語, 英語, 中国語（簡体字）",
-      "japaneseSupported": true,
-      "description": "不思議な魔法の島『ミステリア島』で、個性豊かなモン娘たちと一緒にワクワクのダイスアドベンチャー！ 戦略的なボードゲームで資源を集め、土地を購入し、楽しく競い合いながら、彼女たちと心温まる絆を築き、ファンタジー島を探検しよう！",
-      "aiSummary": null,
-      "categories": [
-        "新作"
-      ],
-      "groups": [
-        "coming_soon"
-      ],
-      "ranks": {
-        "coming_soon": 2
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
       "reviewsFetchedAt": null,
       "reviewStatus": "unavailable"
     },
@@ -361,109 +273,25 @@
         "top_sellers"
       ],
       "ranks": {
-        "specials": 3,
-        "top_sellers": 5
+        "specials": 2,
+        "top_sellers": 4
       },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
       "reviewsFetchedAt": null,
       "reviewStatus": "unavailable"
     },
     {
-      "id": "steam-4578590",
-      "appId": 4578590,
+      "id": "steam-4950060",
+      "appId": 4950060,
       "kind": "game",
-      "title": "BagoLand",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4578590/0341d86bd3d20e3f84d447e7413494da3169b865/header.jpg?t=1794614495",
-      "steamUrl": "https://store.steampowered.com/app/4578590/",
-      "releaseDate": "2026年11月13日",
+      "title": "Bid Wars",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4950060/423441174965bc0538b79ba4f70ada3b85e8f8b3/header.jpg?t=1794698345",
+      "steamUrl": "https://store.steampowered.com/app/4950060/",
+      "releaseDate": "2026年11月14日",
       "comingSoon": false,
-      "originalPrice": 0,
-      "currentPrice": 0,
-      "currency": "JPY",
-      "discountPercent": 0,
-      "saleEndsAt": null,
-      "offerType": "free-to-play",
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "無料プレイ"
-      ],
-      "tags": [],
-      "supportedLanguages": "チェコ語 * , スロバキア語 * * フル音声対応言語",
-      "japaneseSupported": false,
-      "description": "Bagoland is a unique community sandbox in Unreal Engine 5. Explore and roam the world.",
-      "aiSummary": null,
-      "categories": [
-        "新作"
-      ],
-      "groups": [
-        "new_releases"
-      ],
-      "ranks": {
-        "new_releases": 3
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-3540610",
-      "appId": 3540610,
-      "kind": "game",
-      "title": "アストラルハンター：帰還",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3540610/6403a4db95694de518dea01166fabac4318291c5/header.jpg?t=1794470015",
-      "steamUrl": "https://store.steampowered.com/app/3540610/",
-      "releaseDate": "2026年11月13日",
-      "comingSoon": true,
-      "originalPrice": null,
-      "currentPrice": null,
-      "currency": null,
-      "discountPercent": 0,
-      "saleEndsAt": null,
-      "offerType": null,
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "アクション"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語, フランス語, ドイツ語, スペイン語 - スペイン, ロシア語, トルコ語, 日本語, 中国語（簡体字）, 中国語（繁体字）, ポルトガル語－ブラジル, 韓国語, ポーランド語",
-      "japaneseSupported": true,
-      "description": "これはトップダウン視点のアクションローグライトゲームです。武器を選択し、群がる異星生物たちと戦いましょう。様々なアップグレードモジュールやアイテムを組み合わせて、独自の戦闘スタイルを構築できます。異星生物を捕獲してその能力を使うことも、基地に連れ帰り素材を生産させることも可能。使えるキャラを増やして、この惑星を征服しよう！",
-      "aiSummary": null,
-      "categories": [
-        "新作"
-      ],
-      "groups": [
-        "coming_soon"
-      ],
-      "ranks": {
-        "coming_soon": 3
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-2868840",
-      "appId": 2868840,
-      "kind": "game",
-      "title": "Slay the Spire 2",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1787169309",
-      "steamUrl": "https://store.steampowered.com/app/2868840/",
-      "releaseDate": "2026年3月5日",
-      "comingSoon": false,
-      "originalPrice": 2800,
-      "currentPrice": 2240,
+      "originalPrice": 420,
+      "currentPrice": 336,
       "currency": "JPY",
       "discountPercent": 20,
       "saleEndsAt": null,
@@ -473,187 +301,13 @@
       "positivePercent": null,
       "reviewScope": "全言語・全購入種別",
       "genres": [
-        "インディー",
-        "ストラテジー",
-        "早期アクセス"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, スペイン語－ラテンアメリカ, タイ語, トルコ語",
-      "japaneseSupported": true,
-      "description": "あの象徴的なデッキ構築型ローグライクが帰ってきた。Slay the Spire 2をプレイして、ユニークなデッキを構築し、奇怪な生物たちと出会い、圧倒的な力を秘めたレリックを発見しよう！",
-      "aiSummary": null,
-      "categories": [
-        "話題",
-        "セール"
-      ],
-      "groups": [
-        "top_sellers"
-      ],
-      "ranks": {
-        "top_sellers": 4
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-5020540",
-      "appId": 5020540,
-      "kind": "game",
-      "title": "Tanto",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5020540/b779875388eb27e0662df2fcb0591c2eef89e56f/header.jpg?t=1794614259",
-      "steamUrl": "https://store.steampowered.com/app/5020540/",
-      "releaseDate": "2026年11月13日",
-      "comingSoon": false,
-      "originalPrice": 790,
-      "currentPrice": 790,
-      "currency": "JPY",
-      "discountPercent": 0,
-      "saleEndsAt": null,
-      "offerType": null,
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー",
-        "ストラテジー"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語, フランス語, ドイツ語, 日本語, 韓国語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, 中国語（繁体字）, ポーランド語, スペイン語－ラテンアメリカ",
-      "japaneseSupported": true,
-      "description": "果てしなく続くような部屋に閉じ込められたあなた。扉を開けても、また同じような部屋が広がる。やがて小さな足音が聞こえ、気づく。ここには、あなた以外の何かがいる。謎を解き、生きて出口を見つけよう。",
-      "aiSummary": null,
-      "categories": [
-        "新作"
-      ],
-      "groups": [
-        "new_releases"
-      ],
-      "ranks": {
-        "new_releases": 4
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-4960970",
-      "appId": 4960970,
-      "kind": "game",
-      "title": "Monster Girl Tactics: Oubliette",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4960970/de9c67418784de100380386d2dcb7f3e5c3a46d8/header.jpg?t=1792351177",
-      "steamUrl": "https://store.steampowered.com/app/4960970/",
-      "releaseDate": "2026年11月13日",
-      "comingSoon": true,
-      "originalPrice": null,
-      "currentPrice": null,
-      "currency": null,
-      "discountPercent": 0,
-      "saleEndsAt": null,
-      "offerType": null,
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "アドベンチャー",
-        "インディー",
-        "RPG",
+        "シミュレーション",
         "ストラテジー"
       ],
       "tags": [],
       "supportedLanguages": "英語",
       "japaneseSupported": false,
-      "description": "A dark romance SRPG. Pledge your life to feisty and unhinged monstergirls, then defeat your foes using careful positioning and strategical wit. From the downtrodden rise a revolting mafia; join them in a wild hunt for power, revenge, change",
-      "aiSummary": null,
-      "categories": [
-        "新作"
-      ],
-      "groups": [
-        "coming_soon"
-      ],
-      "ranks": {
-        "coming_soon": 4
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-4459590",
-      "appId": 4459590,
-      "kind": "game",
-      "title": "スロットバウンド - Slotbound",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg?t=1794535601",
-      "steamUrl": "https://store.steampowered.com/app/4459590/",
-      "releaseDate": "2026年11月12日",
-      "comingSoon": false,
-      "originalPrice": 1400,
-      "currentPrice": 1260,
-      "currency": "JPY",
-      "discountPercent": 10,
-      "saleEndsAt": "2026-11-26T18:00:33.000Z",
-      "offerType": "discount",
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "インディー",
-        "ストラテジー"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語, 韓国語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, ロシア語, 中国語（簡体字）, ポーランド語, ポルトガル語－ブラジル, 中国語（繁体字）",
-      "japaneseSupported": true,
-      "description": "運と戦略が交差する、ローグライト・オートバトラー防衛ゲーム。3x3 スロットマシンを回してユニットを召喚し、仲間を吸収して軍勢を強化しましょう。アイテムとコアを駆使して確率を操り、手強い審判ウェーブやボスウェーブを生き残れ。すべてのスピンと、すべての選択が勝敗を分けます。",
-      "aiSummary": null,
-      "categories": [
-        "セール"
-      ],
-      "groups": [
-        "specials"
-      ],
-      "ranks": {
-        "specials": 5
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-5465790",
-      "appId": 5465790,
-      "kind": "game",
-      "title": "Gold Idle",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5465790/8fc5ffa80035af1a45b415753d122073f3633512/header.jpg?t=1794611535",
-      "steamUrl": "https://store.steampowered.com/app/5465790/",
-      "releaseDate": "2026年11月13日",
-      "comingSoon": false,
-      "originalPrice": 705,
-      "currentPrice": 493,
-      "currency": "JPY",
-      "discountPercent": 30,
-      "saleEndsAt": null,
-      "offerType": "discount",
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "カジュアル",
-        "インディー"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語 * * フル音声対応言語",
-      "japaneseSupported": false,
-      "description": "Start with a single coin. Flip, upgrade, and automate your way to a fortune in an incremental game where flips determine power.",
+      "description": "Enter round-based auctions and engage in psychological warfare! Outbid to secure rare loot or deceive your opponents with lowballs, bluffs, and everything in between. Arm your warriors and send them out on raids to get even more loot! Grow ",
       "aiSummary": null,
       "categories": [
         "新作",
@@ -663,527 +317,10 @@
         "new_releases"
       ],
       "ranks": {
-        "new_releases": 5
+        "new_releases": 2
       },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-2408840",
-      "appId": 2408840,
-      "kind": "game",
-      "title": "アルケドゥーム",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2408840/9461da7e8d591422fd3093eba7eb1366a79202f5/header_japanese.jpg?t=1794349584",
-      "steamUrl": "https://store.steampowered.com/app/2408840/",
-      "releaseDate": "2026年11月13日",
-      "comingSoon": true,
-      "originalPrice": null,
-      "currentPrice": null,
-      "currency": null,
-      "discountPercent": 0,
-      "saleEndsAt": null,
-      "offerType": null,
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "インディー",
-        "シミュレーション",
-        "ストラテジー"
-      ],
-      "tags": [],
-      "supportedLanguages": "中国語（簡体字）, 英語, ドイツ語, スペイン語 - スペイン, ロシア語, 日本語, 中国語（繁体字）, ポルトガル語－ブラジル, 韓国語",
-      "japaneseSupported": true,
-      "description": "一人称の煉丹ローグライトゲームです。目を覚ますと、そこは邪尊の丹房。明日を生き延びるには、丹薬を煉り、貢物として納めるしかありません。自分の手で丹を持ち、材料を入れ、火を使う。成功、損傷、廃棄のリスクを見極め、引き際を決めましょう。丹器・薬引・火種を組み合わせ、確率を味方に。毎日が新たな試練です。脱出するその日まで、生き延びられますか？",
-      "aiSummary": null,
-      "categories": [
-        "新作"
-      ],
-      "groups": [
-        "coming_soon"
-      ],
-      "ranks": {
-        "coming_soon": 5
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-4530370",
-      "appId": 4530370,
-      "kind": "game",
-      "title": "Football Manager 27",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4530370/32b41d18ffaac3d2e1dc1a9c3915538db0ba3fca/header.jpg?t=1794483499",
-      "steamUrl": "https://store.steampowered.com/app/4530370/",
-      "releaseDate": "2026年11月10日",
-      "comingSoon": false,
-      "originalPrice": 7990,
-      "currentPrice": 7990,
-      "currency": "JPY",
-      "discountPercent": 0,
-      "saleEndsAt": null,
-      "offerType": null,
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "シミュレーション",
-        "スポーツ",
-        "ストラテジー"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, アラビア語, デンマーク語, オランダ語, ギリシャ語, インドネシア語, 日本語, 韓国語, ノルウェー語, ポーランド語, ポルトガル語－ポルトガル, ロシア語, 中国語（簡体字）, スペイン語－ラテンアメリカ, スウェーデン語, トルコ語",
-      "japaneseSupported": true,
-      "description": "クラブを選んで指揮を執り、理想のチームを作り上げ、自分だけの戦術を確立しましょう。そして、あなただけが思い描く未来を追い求めてください。 『FM27』では、あなたのサッカーへの信念が現実になります。すべては、あなたの手に委ねられています。",
-      "aiSummary": null,
-      "categories": [
-        "話題"
-      ],
-      "groups": [
-        "top_sellers"
-      ],
-      "ranks": {
-        "top_sellers": 6
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-5266240",
-      "appId": 5266240,
-      "kind": "game",
-      "title": "Potato Please",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg?t=1794431346",
-      "steamUrl": "https://store.steampowered.com/app/5266240/",
-      "releaseDate": "2026年11月3日",
-      "comingSoon": false,
-      "originalPrice": 1400,
-      "currentPrice": 1260,
-      "currency": "JPY",
-      "discountPercent": 10,
-      "saleEndsAt": "2026-11-15T18:00:36.000Z",
-      "offerType": "discount",
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語, フランス語, イタリア語, ドイツ語, ポルトガル語－ブラジル, 日本語, ポーランド語, ハンガリー語, ポルトガル語－ポルトガル, ロシア語, トルコ語, ウクライナ語, チェコ語, スペイン語 - スペイン, 中国語（簡体字）, 中国語（繁体字）, 韓国語, スペイン語－ラテンアメリカ, ベトナム語",
-      "japaneseSupported": true,
-      "description": "一人称視点のジャガイモ皮むきゲーム。ナイフがある。バケツがある。ジャガイモの山がある。本物の物理演算で皮をむこう。薄く切って、無駄にしない。もっと良い道具を買おう。山がなくなるまでむき続けろ。君ほど上手くむける者はいない。",
-      "aiSummary": null,
-      "categories": [
-        "セール"
-      ],
-      "groups": [
-        "specials"
-      ],
-      "ranks": {
-        "specials": 6
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-4562770",
-      "appId": 4562770,
-      "kind": "game",
-      "title": "Cosmo Piercers",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4562770/a842124af988733076d58dbdd8fd0489222ec29e/header.jpg?t=1794611511",
-      "steamUrl": "https://store.steampowered.com/app/4562770/",
-      "releaseDate": "2026年11月13日",
-      "comingSoon": false,
-      "originalPrice": 705,
-      "currentPrice": 705,
-      "currency": "JPY",
-      "discountPercent": 0,
-      "saleEndsAt": null,
-      "offerType": null,
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "アクション"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語, 日本語",
-      "japaneseSupported": true,
-      "description": "A vertical scrolling shooter where you fire your main shot and strategically switch between limited ammo special weapons to take down enemies. Earn bonus points by clearing areas, and defeat as many enemies as possible before the game ends ",
-      "aiSummary": null,
-      "categories": [
-        "新作"
-      ],
-      "groups": [
-        "new_releases"
-      ],
-      "ranks": {
-        "new_releases": 6
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-5300300",
-      "appId": 5300300,
-      "kind": "game",
-      "title": "Elementys",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5300300/2b529bcbcd27f2e44ede2cd1642c036eae54266f/header.jpg?t=1794603174",
-      "steamUrl": "https://store.steampowered.com/app/5300300/",
-      "releaseDate": "2026年11月14日",
-      "comingSoon": true,
-      "originalPrice": 0,
-      "currentPrice": 0,
-      "currency": "JPY",
-      "discountPercent": 0,
-      "saleEndsAt": null,
-      "offerType": "free-to-play",
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "アクション",
-        "アドベンチャー",
-        "インディー",
-        "MM（Massively Multiplayer）",
-        "RPG",
-        "無料プレイ"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語, フランス語, ポーランド語, ポルトガル語－ブラジル, トルコ語",
-      "japaneseSupported": false,
-      "description": "Explore a vast pixel-art MMORPG where adventure, progression, crafting, trading, PvE, and ranked PvP shape your journey. Play alone or with others, master your class, conquer powerful bosses, and build your legacy in the world of Elementys.",
-      "aiSummary": null,
-      "categories": [
-        "新作"
-      ],
-      "groups": [
-        "coming_soon"
-      ],
-      "ranks": {
-        "coming_soon": 6
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-4435490",
-      "appId": 4435490,
-      "kind": "game",
-      "title": "Call of Duty®: Modern Warfare® 4",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/47d9fe2f127eda61898acdefbfa8907503ac3c7a/header_japanese.jpg?t=1794339680",
-      "steamUrl": "https://store.steampowered.com/app/4435490/",
-      "releaseDate": "2026年10月22日",
-      "comingSoon": false,
-      "originalPrice": 9800,
-      "currentPrice": 9800,
-      "currency": "JPY",
-      "discountPercent": 0,
-      "saleEndsAt": null,
-      "offerType": null,
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "アクション"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語 * , フランス語 * , イタリア語 * , ドイツ語 * , スペイン語 - スペイン * , 韓国語 * , ポーランド語, ロシア語, 中国語（繁体字）, 日本語 * , スペイン語－ラテンアメリカ * , アラビア語, 中国語（簡体字） * , ポルトガル語－ブラジル * * フル音声対応言語",
-      "japaneseSupported": true,
-      "description": "「Call of Duty®: Modern Warfare® 4」では、朝鮮半島で戦争が勃発。北朝鮮が大規模侵攻に踏み切り、世界情勢を揺るがす脅威が広がっていく。",
-      "aiSummary": null,
-      "categories": [
-        "話題"
-      ],
-      "groups": [
-        "top_sellers"
-      ],
-      "ranks": {
-        "top_sellers": 7
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-5160800",
-      "appId": 5160800,
-      "kind": "game",
-      "title": "Find The Needle",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5160800/9ad39ef753543a194a7546ee8a17dc4b821cd021/header.jpg?t=1793980111",
-      "steamUrl": "https://store.steampowered.com/app/5160800/",
-      "releaseDate": "2026年11月6日",
-      "comingSoon": false,
-      "originalPrice": 2100,
-      "currentPrice": 1785,
-      "currency": "JPY",
-      "discountPercent": 15,
-      "saleEndsAt": "2026-11-20T18:00:30.000Z",
-      "offerType": "discount",
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション",
-        "早期アクセス"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語, ドイツ語, ポーランド語, フランス語, スペイン語 - スペイン, チェコ語, 中国語（簡体字）, ロシア語, 日本語, 韓国語, トルコ語, ポルトガル語－ブラジル, イタリア語, 中国語（繁体字）, ウクライナ語, アラビア語, ペルシア語",
-      "japaneseSupported": true,
-      "description": "手元にあるのはシャベル一本と、約600万本の干し草。 そのどこかに、一本の針が隠されている。 最初は自分の手で掘り進め、干し草を売って資金を稼ぐ。 そのお金でコンベアや機械を増やし、少しずつ作業を自動化していこう。 最後には、もう自分で掘る必要すらなくなる。",
-      "aiSummary": null,
-      "categories": [
-        "セール"
-      ],
-      "groups": [
-        "specials"
-      ],
-      "ranks": {
-        "specials": 7
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-5296680",
-      "appId": 5296680,
-      "kind": "game",
-      "title": "House of Pips：ドミノローグライク",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5296680/fb17382737c66d7cb7d3d5158dcca5f2fab56ef7/header_japanese.jpg?t=1794612492",
-      "steamUrl": "https://store.steampowered.com/app/5296680/",
-      "releaseDate": "2026年11月13日",
-      "comingSoon": false,
-      "originalPrice": 2250,
-      "currentPrice": 1800,
-      "currency": "JPY",
-      "discountPercent": 20,
-      "saleEndsAt": null,
-      "offerType": "discount",
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "ストラテジー"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語 * , イタリア語 * , スペイン語 - スペイン * , 日本語 * , ポルトガル語－ブラジル * , ロシア語 * , スペイン語－ラテンアメリカ * , 中国語（簡体字） * , フランス語 * , ドイツ語 * , 韓国語 * , ポーランド語 * , 中国語（繁体字） * , トルコ語 * , ブルガリア語 * , チェコ語 * , デンマーク語 * , オランダ語 * , フィンランド語 * , ギリシャ語 * , ハンガリー語 * , インドネシア語 * , ノルウェー語 * , ポルトガル語－ポルトガル * , ルーマニア語 * , スウェーデン語 * , ウクライナ語 * * フル音声対応言語",
-      "japaneseSupported": true,
-      "description": "ターン制ドミノローグライク。ルールを覆すような特典を選び、その効果を組み合わせ、スキルツリーを通してプレイスタイルをカスタマイズしよう。盤面​​を読み、配置を計画し、手札に合わせて戦略を練り、シングルプレイまたはオンラインマルチプレイで対戦相手を出し抜こう。",
-      "aiSummary": null,
-      "categories": [
-        "新作",
-        "セール"
-      ],
-      "groups": [
-        "new_releases"
-      ],
-      "ranks": {
-        "new_releases": 7
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-5082170",
-      "appId": 5082170,
-      "kind": "game",
-      "title": "Fruit Kombat",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5082170/0ea42d51c5bf098ce8881939199dbb149c18ca28/header.jpg?t=1793782794",
-      "steamUrl": "https://store.steampowered.com/app/5082170/",
-      "releaseDate": "2026年11月14日",
-      "comingSoon": true,
-      "originalPrice": null,
-      "currentPrice": null,
-      "currency": null,
-      "discountPercent": 0,
-      "saleEndsAt": null,
-      "offerType": null,
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "アクション",
-        "インディー"
-      ],
-      "tags": [],
-      "supportedLanguages": "ポルトガル語－ブラジル * , 英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 中国語（簡体字）, 中国語（繁体字）, 韓国語, スペイン語－ラテンアメリカ, 日本語, ポーランド語, ロシア語, トルコ語, ウクライナ語, アラビア語, ポルトガル語－ポルトガル * フル音声対応言語",
-      "japaneseSupported": true,
-      "description": "バズった果物ドロ沼ドラマが、カオスな3D格闘ゲームに。果物たちがジムで決着をつける横で、昼ドラ級の裏切りと誰も望んでいない告白が展開。オーラを稼いで武器の必殺技を解放し、オフライン対戦とSteamのオンラインPvPで戦おう。",
-      "aiSummary": null,
-      "categories": [
-        "新作"
-      ],
-      "groups": [
-        "coming_soon"
-      ],
-      "ranks": {
-        "coming_soon": 7
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-3259780",
-      "appId": 3259780,
-      "kind": "game",
-      "title": "ファイナルファンタジー レゾナンス",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/08c9be490fd97261e31c0b5ebdcfee03173cfc38/header_japanese.jpg?t=1793984485",
-      "steamUrl": "https://store.steampowered.com/app/3259780/",
-      "releaseDate": "2026年10月22日",
-      "comingSoon": false,
-      "originalPrice": 7678,
-      "currentPrice": 7678,
-      "currency": "JPY",
-      "discountPercent": 0,
-      "saleEndsAt": null,
-      "offerType": null,
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "RPG"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語 * , フランス語, ドイツ語, スペイン語 - スペイン, 中国語（簡体字）, 中国語（繁体字）, 日本語 * , 韓国語 * フル音声対応言語",
-      "japaneseSupported": true,
-      "description": "もし、「ファイナルファンタジー」がドットのまま進化を遂げていたら——。 をコンセプトに新たなドット表現で描かれる、「ファイナルファンタジー」シリーズ最新作。 《クリスタル》を巡る物語、ターン制コマンドバトルやアビリティの付け替えなどシリーズおなじみの要素に加え、豊富なやりこみ要素も数多く収録されている。",
-      "aiSummary": null,
-      "categories": [
-        "話題"
-      ],
-      "groups": [
-        "top_sellers"
-      ],
-      "ranks": {
-        "top_sellers": 8
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-2487190",
-      "appId": 2487190,
-      "kind": "game",
-      "title": "Main Sequence",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2487190/28ccc4a7ffadbd7efb2ca7aae158ce2fbe842e49/header_alt_assets_1_japanese.jpg?t=1794507021",
-      "steamUrl": "https://store.steampowered.com/app/2487190/",
-      "releaseDate": "2026年11月12日",
-      "comingSoon": false,
-      "originalPrice": 3190,
-      "currentPrice": 2552,
-      "currency": "JPY",
-      "discountPercent": 20,
-      "saleEndsAt": "2026-11-26T18:00:28.000Z",
-      "offerType": "discount",
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "インディー",
-        "シミュレーション",
-        "ストラテジー",
-        "早期アクセス"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語, フランス語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）",
-      "japaneseSupported": true,
-      "description": "『Main Sequence』は一人称視点のスペースシミュ・工場作りゲーム。宇宙船を設計したり、宇宙ステーションを建築したり、あらゆるものを自動化できます。一隻の船から駆け出し、銀河を股にかける工業帝国を築き上げ、己の名前を銀河史に刻みましょう。",
-      "aiSummary": null,
-      "categories": [
-        "セール"
-      ],
-      "groups": [
-        "specials"
-      ],
-      "ranks": {
-        "specials": 8
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-5348940",
-      "appId": 5348940,
-      "kind": "game",
-      "title": "Exo7",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5348940/892c1cf8eb06933e33dc9cee9082c7db280476ac/header.jpg?t=1794611255",
-      "steamUrl": "https://store.steampowered.com/app/5348940/",
-      "releaseDate": "2026年11月13日",
-      "comingSoon": false,
-      "originalPrice": 0,
-      "currentPrice": 0,
-      "currency": "JPY",
-      "discountPercent": 0,
-      "saleEndsAt": null,
-      "offerType": "free-to-play",
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "インディー",
-        "MM（Massively Multiplayer）",
-        "シミュレーション",
-        "ストラテジー",
-        "無料プレイ"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語, ドイツ語",
-      "japaneseSupported": false,
-      "description": "Build your interstellar empire in Exo7! Colonize new worlds, extract Metal, Silicium, Tridioxid, and Antimatter, build mighty fleets, and explore hyperspace. Choose your faction, conquer raids and bounty hunts, and dominate Sector 7!",
-      "aiSummary": null,
-      "categories": [
-        "新作"
-      ],
-      "groups": [
-        "new_releases"
-      ],
-      "ranks": {
-        "new_releases": 8
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
       "reviewsFetchedAt": null,
       "reviewStatus": "unavailable"
     },
@@ -1224,26 +361,26 @@
         "coming_soon"
       ],
       "ranks": {
-        "coming_soon": 8
+        "coming_soon": 2
       },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
       "reviewsFetchedAt": null,
       "reviewStatus": "unavailable"
     },
     {
-      "id": "steam-3432860",
-      "appId": 3432860,
+      "id": "steam-2868840",
+      "appId": 2868840,
       "kind": "game",
-      "title": "病能探偵",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3432860/c30c49d55dbce303bdd8e586d17b761f372ac504/header_japanese.jpg?t=1793883448",
-      "steamUrl": "https://store.steampowered.com/app/3432860/",
-      "releaseDate": "2026年11月4日",
+      "title": "Slay the Spire 2",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2868840/b0958d387dc366211e0f353443710cfcf9fdb020/header.jpg?t=1787169309",
+      "steamUrl": "https://store.steampowered.com/app/2868840/",
+      "releaseDate": "2026年3月5日",
       "comingSoon": false,
       "originalPrice": 2800,
-      "currentPrice": 2520,
+      "currentPrice": 2240,
       "currency": "JPY",
-      "discountPercent": 10,
+      "discountPercent": 20,
       "saleEndsAt": null,
       "offerType": "discount",
       "reviewLabel": null,
@@ -1251,13 +388,14 @@
       "positivePercent": null,
       "reviewScope": "全言語・全購入種別",
       "genres": [
-        "アドベンチャー",
-        "インディー"
+        "インディー",
+        "ストラテジー",
+        "早期アクセス"
       ],
       "tags": [],
-      "supportedLanguages": "英語, 日本語 * , 中国語（簡体字）, 中国語（繁体字）, 韓国語 * フル音声対応言語",
+      "supportedLanguages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, スペイン語－ラテンアメリカ, タイ語, トルコ語",
       "japaneseSupported": true,
-      "description": "認知異常により歪められた殺人現場で真実を探れ。『病能探偵』は、認知異常×本格ミステリーのデスゲーム推理アドベンチャー。 嘘がつけない、左半分が見えない、顔が識別できない—— 異常なルールを乗り越え、真犯人を暴き出せ。",
+      "description": "あの象徴的なデッキ構築型ローグライクが帰ってきた。Slay the Spire 2をプレイして、ユニークなデッキを構築し、奇怪な生物たちと出会い、圧倒的な力を秘めたレリックを発見しよう！",
       "aiSummary": null,
       "categories": [
         "話題",
@@ -1267,93 +405,99 @@
         "top_sellers"
       ],
       "ranks": {
-        "top_sellers": 9
+        "top_sellers": 3
       },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
       "reviewsFetchedAt": null,
       "reviewStatus": "unavailable"
     },
     {
-      "id": "steam-2492040",
-      "appId": 2492040,
+      "id": "steam-5266240",
+      "appId": 5266240,
       "kind": "game",
-      "title": "餓狼伝説 City of the Wolves",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492040/20f8f1e03649d45e095315cc4a99104dda0364ab/header.jpg?t=1792688653",
-      "steamUrl": "https://store.steampowered.com/app/2492040/",
-      "releaseDate": "2026年1月22日",
+      "title": "Potato Please",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg?t=1794431346",
+      "steamUrl": "https://store.steampowered.com/app/5266240/",
+      "releaseDate": "2026年11月3日",
       "comingSoon": false,
-      "originalPrice": 2980,
-      "currentPrice": 745,
+      "originalPrice": 1400,
+      "currentPrice": 1260,
       "currency": "JPY",
-      "discountPercent": 75,
-      "saleEndsAt": "2026-11-21T08:00:00.000Z",
+      "discountPercent": 10,
+      "saleEndsAt": "2026-11-15T18:00:36.000Z",
       "offerType": "discount",
       "reviewLabel": null,
       "reviewCount": null,
       "positivePercent": null,
       "reviewScope": "全言語・全購入種別",
       "genres": [
-        "アクション"
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
       ],
       "tags": [],
-      "supportedLanguages": "英語 * , フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, アラビア語, タイ語, ロシア語, 中国語（簡体字）, 中国語（繁体字）, 日本語 * , 韓国語, ポルトガル語－ブラジル, スペイン語－ラテンアメリカ * フル音声対応言語",
+      "supportedLanguages": "英語, フランス語, イタリア語, ドイツ語, ポルトガル語－ブラジル, 日本語, ポーランド語, ハンガリー語, ポルトガル語－ポルトガル, ロシア語, トルコ語, ウクライナ語, チェコ語, スペイン語 - スペイン, 中国語（簡体字）, 中国語（繁体字）, 韓国語, スペイン語－ラテンアメリカ, ベトナム語",
       "japaneseSupported": true,
-      "description": "26年の時を経て、『餓狼伝説』が再始動！感性を刺激する独自の「アートスタイル」、バトルの興奮が加速していく「REVシステム」を新たに搭載。さらに初心者から上級者まで楽しめる2つの操作スタイルを始め、様々な新機能や新要素を用意。欲望に満ちたサウスタウンを舞台に、新たな“伝説”が始まる。",
+      "description": "一人称視点のジャガイモ皮むきゲーム。ナイフがある。バケツがある。ジャガイモの山がある。本物の物理演算で皮をむこう。薄く切って、無駄にしない。もっと良い道具を買おう。山がなくなるまでむき続けろ。君ほど上手くむける者はいない。",
       "aiSummary": null,
       "categories": [
+        "話題",
         "セール"
       ],
       "groups": [
-        "specials"
+        "specials",
+        "top_sellers"
       ],
       "ranks": {
-        "specials": 9
+        "specials": 3,
+        "top_sellers": 8
       },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
       "reviewsFetchedAt": null,
       "reviewStatus": "unavailable"
     },
     {
-      "id": "steam-4688730",
-      "appId": 4688730,
+      "id": "steam-5413320",
+      "appId": 5413320,
       "kind": "game",
-      "title": "8 Hours Till Dawn",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688730/638cdfc6c2ecee2e5e8f8c3428c6af05755b13d8/header.jpg?t=1794610879",
-      "steamUrl": "https://store.steampowered.com/app/4688730/",
-      "releaseDate": "2026年11月13日",
+      "title": "Silver Service: Tidy Up the Grand Buffet",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5413320/7781ea1ce9814b5aacb7a0ba2cfc93db555739e8/header.jpg?t=1794694996",
+      "steamUrl": "https://store.steampowered.com/app/5413320/",
+      "releaseDate": "2026年11月14日",
       "comingSoon": false,
-      "originalPrice": 1050,
-      "currentPrice": 1050,
+      "originalPrice": 845,
+      "currentPrice": 718,
       "currency": "JPY",
-      "discountPercent": 0,
+      "discountPercent": 15,
       "saleEndsAt": null,
-      "offerType": null,
+      "offerType": "discount",
       "reviewLabel": null,
       "reviewCount": null,
       "positivePercent": null,
       "reviewScope": "全言語・全購入種別",
       "genres": [
-        "インディー",
-        "ストラテジー"
+        "カジュアル",
+        "シミュレーション"
       ],
       "tags": [],
-      "supportedLanguages": "英語 * * フル音声対応言語",
-      "japaneseSupported": false,
-      "description": "In 8 Hours till dawn you and up to five friends draw 8 cards each round and decide how to Pre-program your Movements and Actions with those 8 cards. Find weapons, buy items, barricade windows, shoot the undead, manage your ammo, Navigate th",
+      "supportedLanguages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 中国語（簡体字）, 中国語（繁体字）, 韓国語, スペイン語－ラテンアメリカ, 日本語, オランダ語, ポーランド語, ポルトガル語－ブラジル, ポルトガル語－ポルトガル, ロシア語, チェコ語, トルコ語, アラビア語",
+      "japaneseSupported": true,
+      "description": "Silver Serviceは、クルーズ船を舞台にした癒し系お片付けゲーム。11,132個の料理を、ひとりで、または最大3人のフレンドと一緒に元の場所へ戻していきます。トレイをいっぱいにして正しい陳列台を探し、アップグレードを解放。ひと息つきたくなったら釣り竿を手に、水の中に何が隠れているか見てみましょう。",
       "aiSummary": null,
       "categories": [
-        "新作"
+        "新作",
+        "セール"
       ],
       "groups": [
         "new_releases"
       ],
       "ranks": {
-        "new_releases": 9
+        "new_releases": 3
       },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
       "reviewsFetchedAt": null,
       "reviewStatus": "unavailable"
     },
@@ -1393,24 +537,24 @@
         "coming_soon"
       ],
       "ranks": {
-        "coming_soon": 9
+        "coming_soon": 3
       },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
       "reviewsFetchedAt": null,
       "reviewStatus": "unavailable"
     },
     {
-      "id": "steam-3681610",
-      "appId": 3681610,
+      "id": "steam-5086490",
+      "appId": 5086490,
       "kind": "game",
-      "title": "ドラゴンクエストモンスターズ４ 枯れ木の国のビアンカ・フローラ",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3681610/5992f8dd7390eb6e641437ff0af6f3b32d3ff054/header_japanese.jpg?t=1793308217",
-      "steamUrl": "https://store.steampowered.com/app/3681610/",
-      "releaseDate": "2026年12月3日",
-      "comingSoon": true,
-      "originalPrice": 7700,
-      "currentPrice": 7700,
+      "title": "Computer Sillow: Jobcersize",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5086490/08a4197b6e0889fd4ea7f19ce17b25140af83bf7/header.jpg?t=1794693968",
+      "steamUrl": "https://store.steampowered.com/app/5086490/",
+      "releaseDate": "2026年11月14日",
+      "comingSoon": false,
+      "originalPrice": 1050,
+      "currentPrice": 1050,
       "currency": "JPY",
       "discountPercent": 0,
       "saleEndsAt": null,
@@ -1421,111 +565,24 @@
       "reviewScope": "全言語・全購入種別",
       "genres": [
         "アクション",
-        "アドベンチャー",
-        "RPG"
+        "インディー"
       ],
       "tags": [],
-      "supportedLanguages": "英語 * , フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 中国語（簡体字）, 中国語（繁体字）, 日本語 * , 韓国語 * フル音声対応言語",
-      "japaneseSupported": true,
-      "description": "「ドラゴンクエスト」シリーズに登場するさまざまなモンスターたちを仲間にして育成・配合し、モンスター同士の迫力あるバトルが楽しめるRPGです。 本作ではビアンカとフローラという2人の少女が、モンスターと心を通わせる「モンスターマスター」となって、新たな冒険の旅を繰り広げます。",
+      "supportedLanguages": "英語",
+      "japaneseSupported": false,
+      "description": "The Computerian-Workplace-Initative! Need a Job? Need some Excersize? You need some Jobcersize!",
       "aiSummary": null,
       "categories": [
-        "話題",
         "新作"
-      ],
-      "groups": [
-        "top_sellers"
-      ],
-      "ranks": {
-        "top_sellers": 10
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-4651080",
-      "appId": 4651080,
-      "kind": "game",
-      "title": "CelSector",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651080/6c4ee73b627c590e950ede978cf005eaa6b2d0a8/header.jpg?t=1794513521",
-      "steamUrl": "https://store.steampowered.com/app/4651080/",
-      "releaseDate": "2026年11月12日",
-      "comingSoon": false,
-      "originalPrice": 2200,
-      "currentPrice": 1980,
-      "currency": "JPY",
-      "discountPercent": 10,
-      "saleEndsAt": "2026-11-19T18:00:47.000Z",
-      "offerType": "discount",
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "アクション"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語, フランス語, スペイン語 - スペイン, 日本語, 中国語（簡体字）, 韓国語, タイ語, 中国語（繁体字）, ベトナム語, フィリピン語, ロシア語",
-      "japaneseSupported": true,
-      "description": "生物的悪夢に支配された研究施設で生き残りを懸けて戦う、2D SF横スクロールアクションゲーム。多彩な銃器を駆使して敵を粉砕し、キャラクターの見た目を自由にカスタマイズしながら、数々の罠やハザード、そして肉体変異の脅威を回避せよ。",
-      "aiSummary": null,
-      "categories": [
-        "セール"
-      ],
-      "groups": [
-        "specials"
-      ],
-      "ranks": {
-        "specials": 10
-      },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
-      "reviewsFetchedAt": null,
-      "reviewStatus": "unavailable"
-    },
-    {
-      "id": "steam-5365570",
-      "appId": 5365570,
-      "kind": "game",
-      "title": "MATE, This Place is a MESS!",
-      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5365570/5045bca95b8856af6788df93a78febcbf484b95e/header.jpg?t=1794610784",
-      "steamUrl": "https://store.steampowered.com/app/5365570/",
-      "releaseDate": "2026年11月13日",
-      "comingSoon": false,
-      "originalPrice": 655,
-      "currentPrice": 589,
-      "currency": "JPY",
-      "discountPercent": 10,
-      "saleEndsAt": null,
-      "offerType": "discount",
-      "reviewLabel": null,
-      "reviewCount": null,
-      "positivePercent": null,
-      "reviewScope": "全言語・全購入種別",
-      "genres": [
-        "カジュアル",
-        "インディー",
-        "シミュレーション"
-      ],
-      "tags": [],
-      "supportedLanguages": "英語, フランス語, イタリア語, ドイツ語, チェコ語, 中国語（簡体字）, 韓国語, デンマーク語, スペイン語－ラテンアメリカ, ギリシャ語, ハンガリー語, インドネシア語, 日本語, マレー語, ポーランド語, ポルトガル語－ブラジル, ロシア語, スウェーデン語, トルコ語, エストニア語, スペイン語 - スペイン, ポルトガル語－ポルトガル",
-      "japaneseSupported": true,
-      "description": "『MATE, This Place is a MESS!』は、散らかった博物館で5,000個のマテ茶パッケージを片付ける癒やし系の整理ゲーム。棚を埋めて、マテをいれて、スキルを解放し、パッケージを蹴って定位置へ。大広間の奥では、巨大な幕が博物館の真実を隠している。その正体とは？",
-      "aiSummary": null,
-      "categories": [
-        "新作",
-        "セール"
       ],
       "groups": [
         "new_releases"
       ],
       "ranks": {
-        "new_releases": 10
+        "new_releases": 4
       },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
       "reviewsFetchedAt": null,
       "reviewStatus": "unavailable"
     },
@@ -1564,15 +621,1449 @@
         "coming_soon"
       ],
       "ranks": {
+        "coming_soon": 4
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-3432860",
+      "appId": 3432860,
+      "kind": "game",
+      "title": "病能探偵",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3432860/c30c49d55dbce303bdd8e586d17b761f372ac504/header_japanese.jpg?t=1794645726",
+      "steamUrl": "https://store.steampowered.com/app/3432860/",
+      "releaseDate": "2026年11月4日",
+      "comingSoon": false,
+      "originalPrice": 2800,
+      "currentPrice": 2520,
+      "currency": "JPY",
+      "discountPercent": 10,
+      "saleEndsAt": null,
+      "offerType": "discount",
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "アドベンチャー",
+        "インディー"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語, 日本語 * , 中国語（簡体字）, 中国語（繁体字）, 韓国語 * フル音声対応言語",
+      "japaneseSupported": true,
+      "description": "認知異常により歪められた殺人現場で真実を探れ。『病能探偵』は、認知異常×本格ミステリーのデスゲーム推理アドベンチャー。 嘘がつけない、左半分が見えない、顔が識別できない—— 異常なルールを乗り越え、真犯人を暴き出せ。",
+      "aiSummary": null,
+      "categories": [
+        "話題",
+        "セール"
+      ],
+      "groups": [
+        "top_sellers"
+      ],
+      "ranks": {
+        "top_sellers": 5
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-5480840",
+      "appId": 5480840,
+      "kind": "game",
+      "title": "BeatSlayer",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5480840/4e78a0a4a6c904391b38ef00b13bd35e0b755054/header.jpg?t=1794690788",
+      "steamUrl": "https://store.steampowered.com/app/5480840/",
+      "releaseDate": "2026年11月14日",
+      "comingSoon": false,
+      "originalPrice": 1150,
+      "currentPrice": 1150,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "saleEndsAt": null,
+      "offerType": null,
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "アクション",
+        "インディー"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語",
+      "japaneseSupported": false,
+      "description": "Every enemy moves on the beat. Fly one of four ships through a cyberpunk three-act run, meet 210 strange encounters, play 24 minigames, unlock a new relic with every stage you clear, fuse weapons into 1,378 fusions, and see how deep Endless",
+      "aiSummary": null,
+      "categories": [
+        "新作"
+      ],
+      "groups": [
+        "new_releases"
+      ],
+      "ranks": {
+        "new_releases": 5
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-2384980",
+      "appId": 2384980,
+      "kind": "game",
+      "title": "Cafe Simulator",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2384980/fa177aeb18e86f458b6076aca04b6df2a103e464/header.jpg?t=1794242865",
+      "steamUrl": "https://store.steampowered.com/app/2384980/",
+      "releaseDate": "2026年11月15日",
+      "comingSoon": true,
+      "originalPrice": null,
+      "currentPrice": null,
+      "currency": null,
+      "discountPercent": 0,
+      "saleEndsAt": null,
+      "offerType": null,
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "インディー",
+        "シミュレーション"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, ロシア語, トルコ語",
+      "japaneseSupported": false,
+      "description": "Build and manage your cafe business. Customize your shop with furniture and decorations, brew various beverages, serve customers efficiently, expand your space, and compete with rival cafés. Grow from a small shop to a thriving empire. Oh, ",
+      "aiSummary": null,
+      "categories": [
+        "新作"
+      ],
+      "groups": [
+        "coming_soon"
+      ],
+      "ranks": {
+        "coming_soon": 5
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-4435490",
+      "appId": 4435490,
+      "kind": "game",
+      "title": "Call of Duty®: Modern Warfare® 4",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/47d9fe2f127eda61898acdefbfa8907503ac3c7a/header_japanese.jpg?t=1794339680",
+      "steamUrl": "https://store.steampowered.com/app/4435490/",
+      "releaseDate": "2026年10月22日",
+      "comingSoon": false,
+      "originalPrice": 9800,
+      "currentPrice": 9800,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "saleEndsAt": null,
+      "offerType": null,
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "アクション"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語 * , フランス語 * , イタリア語 * , ドイツ語 * , スペイン語 - スペイン * , 韓国語 * , ポーランド語, ロシア語, 中国語（繁体字）, 日本語 * , スペイン語－ラテンアメリカ * , アラビア語, 中国語（簡体字） * , ポルトガル語－ブラジル * * フル音声対応言語",
+      "japaneseSupported": true,
+      "description": "「Call of Duty®: Modern Warfare® 4」では、朝鮮半島で戦争が勃発。北朝鮮が大規模侵攻に踏み切り、世界情勢を揺るがす脅威が広がっていく。",
+      "aiSummary": null,
+      "categories": [
+        "話題"
+      ],
+      "groups": [
+        "top_sellers"
+      ],
+      "ranks": {
+        "top_sellers": 6
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-5160800",
+      "appId": 5160800,
+      "kind": "game",
+      "title": "Find The Needle",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5160800/9ad39ef753543a194a7546ee8a17dc4b821cd021/header.jpg?t=1793980111",
+      "steamUrl": "https://store.steampowered.com/app/5160800/",
+      "releaseDate": "2026年11月6日",
+      "comingSoon": false,
+      "originalPrice": 2100,
+      "currentPrice": 1785,
+      "currency": "JPY",
+      "discountPercent": 15,
+      "saleEndsAt": "2026-11-20T18:00:30.000Z",
+      "offerType": "discount",
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション",
+        "早期アクセス"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語, ドイツ語, ポーランド語, フランス語, スペイン語 - スペイン, チェコ語, 中国語（簡体字）, ロシア語, 日本語, 韓国語, トルコ語, ポルトガル語－ブラジル, イタリア語, 中国語（繁体字）, ウクライナ語, アラビア語, ペルシア語",
+      "japaneseSupported": true,
+      "description": "手元にあるのはシャベル一本と、約600万本の干し草。 そのどこかに、一本の針が隠されている。 最初は自分の手で掘り進め、干し草を売って資金を稼ぐ。 そのお金でコンベアや機械を増やし、少しずつ作業を自動化していこう。 最後には、もう自分で掘る必要すらなくなる。",
+      "aiSummary": null,
+      "categories": [
+        "話題",
+        "セール"
+      ],
+      "groups": [
+        "specials",
+        "top_sellers"
+      ],
+      "ranks": {
+        "specials": 6,
+        "top_sellers": 9
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-5503180",
+      "appId": 5503180,
+      "kind": "game",
+      "title": "Olympegs",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5503180/c0783062adf55b3273009f4d08d792f4a6c28587/header.jpg?t=1794689091",
+      "steamUrl": "https://store.steampowered.com/app/5503180/",
+      "releaseDate": "2026年11月14日",
+      "comingSoon": false,
+      "originalPrice": 705,
+      "currentPrice": 705,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "saleEndsAt": null,
+      "offerType": null,
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "カジュアル",
+        "インディー"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, 韓国語, ポーランド語, ポルトガル語－ブラジル, ロシア語, 中国語（簡体字）, スペイン語－ラテンアメリカ, 中国語（繁体字）, トルコ語, ウクライナ語",
+      "japaneseSupported": true,
+      "description": "ゼウスとオリュンポスの神々と一緒に、山頂からタルタロスまで弾んで降りていこう。狙って、撃って、金のペグをすべて消そう。最後はボールがボードを登り返し、x5のフィナーレへ。",
+      "aiSummary": null,
+      "categories": [
+        "新作"
+      ],
+      "groups": [
+        "new_releases"
+      ],
+      "ranks": {
+        "new_releases": 6
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-5285190",
+      "appId": 5285190,
+      "kind": "game",
+      "title": "That's My Life",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5285190/89e8b8ef47574a9abd32762227dd02a990893b50/header.jpg?t=1794356920",
+      "steamUrl": "https://store.steampowered.com/app/5285190/",
+      "releaseDate": "2026年11月15日",
+      "comingSoon": true,
+      "originalPrice": null,
+      "currentPrice": null,
+      "currency": null,
+      "discountPercent": 0,
+      "saleEndsAt": null,
+      "offerType": null,
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "インディー",
+        "RPG",
+        "シミュレーション"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語",
+      "japaneseSupported": false,
+      "description": "Build one life across an entire connected world. Choose from hundreds of careers, run businesses from raw materials to retail, invest, own property, raise a family, enter politics or crime, and deal with active NPCs and lasting consequences",
+      "aiSummary": null,
+      "categories": [
+        "新作"
+      ],
+      "groups": [
+        "coming_soon"
+      ],
+      "ranks": {
+        "coming_soon": 6
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-3259780",
+      "appId": 3259780,
+      "kind": "game",
+      "title": "ファイナルファンタジー レゾナンス",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/08c9be490fd97261e31c0b5ebdcfee03173cfc38/header_japanese.jpg?t=1793984485",
+      "steamUrl": "https://store.steampowered.com/app/3259780/",
+      "releaseDate": "2026年10月22日",
+      "comingSoon": false,
+      "originalPrice": 7678,
+      "currentPrice": 7678,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "saleEndsAt": null,
+      "offerType": null,
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "RPG"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語 * , フランス語, ドイツ語, スペイン語 - スペイン, 中国語（簡体字）, 中国語（繁体字）, 日本語 * , 韓国語 * フル音声対応言語",
+      "japaneseSupported": true,
+      "description": "もし、「ファイナルファンタジー」がドットのまま進化を遂げていたら——。 をコンセプトに新たなドット表現で描かれる、「ファイナルファンタジー」シリーズ最新作。 《クリスタル》を巡る物語、ターン制コマンドバトルやアビリティの付け替えなどシリーズおなじみの要素に加え、豊富なやりこみ要素も数多く収録されている。",
+      "aiSummary": null,
+      "categories": [
+        "話題"
+      ],
+      "groups": [
+        "top_sellers"
+      ],
+      "ranks": {
+        "top_sellers": 7
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-4459590",
+      "appId": 4459590,
+      "kind": "game",
+      "title": "スロットバウンド - Slotbound",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg?t=1794535601",
+      "steamUrl": "https://store.steampowered.com/app/4459590/",
+      "releaseDate": "2026年11月12日",
+      "comingSoon": false,
+      "originalPrice": 1400,
+      "currentPrice": 1260,
+      "currency": "JPY",
+      "discountPercent": 10,
+      "saleEndsAt": "2026-11-26T18:00:33.000Z",
+      "offerType": "discount",
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "インディー",
+        "ストラテジー"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語, 韓国語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 日本語, ロシア語, 中国語（簡体字）, ポーランド語, ポルトガル語－ブラジル, 中国語（繁体字）",
+      "japaneseSupported": true,
+      "description": "運と戦略が交差する、ローグライト・オートバトラー防衛ゲーム。3x3 スロットマシンを回してユニットを召喚し、仲間を吸収して軍勢を強化しましょう。アイテムとコアを駆使して確率を操り、手強い審判ウェーブやボスウェーブを生き残れ。すべてのスピンと、すべての選択が勝敗を分けます。",
+      "aiSummary": null,
+      "categories": [
+        "セール"
+      ],
+      "groups": [
+        "specials"
+      ],
+      "ranks": {
+        "specials": 7
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-5339970",
+      "appId": 5339970,
+      "kind": "game",
+      "title": "エクストラバージン・ベッドフェローズ",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5339970/1718b9b6748cfac162fc65a9f9f8d4e7e73f6c54/header_japanese.jpg?t=1794680048",
+      "steamUrl": "https://store.steampowered.com/app/5339970/",
+      "releaseDate": "2026年11月14日",
+      "comingSoon": false,
+      "originalPrice": 905,
+      "currentPrice": 543,
+      "currency": "JPY",
+      "discountPercent": 40,
+      "saleEndsAt": null,
+      "offerType": "discount",
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "アドベンチャー",
+        "シミュレーション"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語 * , フランス語, 日本語, 韓国語, ロシア語, 中国語（簡体字）, スペイン語－ラテンアメリカ * フル音声対応言語",
+      "japaneseSupported": true,
+      "description": "成人向け恋愛ビジュアルノベルで、主任搾油師アルバロとともに干ばつに襲われたオリーブ収穫を乗り越えましょう。ロシオ、ヒメナ、ニエベスのルートから選び、借金、対立、秘密、重圧に苦しむ村での暮らしがもたらす個人的な代償に向き合います。",
+      "aiSummary": null,
+      "categories": [
+        "新作",
+        "セール"
+      ],
+      "groups": [
+        "new_releases"
+      ],
+      "ranks": {
+        "new_releases": 7
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-3175580",
+      "appId": 3175580,
+      "kind": "game",
+      "title": "Water Maid",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3175580/header.jpg?t=1794544663",
+      "steamUrl": "https://store.steampowered.com/app/3175580/",
+      "releaseDate": "2026年11月15日",
+      "comingSoon": true,
+      "originalPrice": null,
+      "currentPrice": null,
+      "currency": null,
+      "discountPercent": 0,
+      "saleEndsAt": null,
+      "offerType": null,
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語 * , シンハラ語 * * フル音声対応言語",
+      "japaneseSupported": false,
+      "description": "Water Maid is all about fetching water. Run, jump and dash to avoid enemies and find the elusive fresh water springs scattered around the island. Fill up your pot and make it back to the village, safe and sound.",
+      "aiSummary": null,
+      "categories": [
+        "新作"
+      ],
+      "groups": [
+        "coming_soon"
+      ],
+      "ranks": {
+        "coming_soon": 7
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-3375780",
+      "appId": 3375780,
+      "kind": "game",
+      "title": "空の軌跡 the 1st",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3375780/header_japanese.jpg?t=1791225209",
+      "steamUrl": "https://store.steampowered.com/app/3375780/",
+      "releaseDate": "2025年9月19日",
+      "comingSoon": false,
+      "originalPrice": 8800,
+      "currentPrice": 4400,
+      "currency": "JPY",
+      "discountPercent": 50,
+      "saleEndsAt": "2026-11-16T18:00:00.000Z",
+      "offerType": "discount",
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "RPG"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語 * , フランス語, ドイツ語, 日本語 * , スペイン語 - スペイン * フル音声対応言語",
+      "japaneseSupported": true,
+      "description": "2024年に生誕20周年を迎えたストーリーRPG「軌跡」シリーズ。その記念すべき第１作、『英雄伝説 空の軌跡FC（ファーストチャプター）』を完全フルリメイク！",
+      "aiSummary": null,
+      "categories": [
+        "セール"
+      ],
+      "groups": [
+        "specials"
+      ],
+      "ranks": {
+        "specials": 8
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-4988400",
+      "appId": 4988400,
+      "kind": "game",
+      "title": "The Last Levee",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4988400/14f94941d4b14e432a67c02a71e50a4076e515f9/header.jpg?t=1794679367",
+      "steamUrl": "https://store.steampowered.com/app/4988400/",
+      "releaseDate": "2026年11月14日",
+      "comingSoon": false,
+      "originalPrice": 395,
+      "currentPrice": 395,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "saleEndsAt": null,
+      "offerType": null,
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "アクション",
+        "インディー",
+        "ストラテジー"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語",
+      "japaneseSupported": false,
+      "description": "Raiders want your crew's dig, and they don't need to take it. They just need to break the dam. Hold the line in this first-person tower defense: build and power turrets, patch the gates under fire, and pump out the flood before the pit goes",
+      "aiSummary": null,
+      "categories": [
+        "新作"
+      ],
+      "groups": [
+        "new_releases"
+      ],
+      "ranks": {
+        "new_releases": 8
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-5492180",
+      "appId": 5492180,
+      "kind": "game",
+      "title": "Grand Space Game",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5492180/f376ff739c49ae088b50b204e52dce8857ee5d3a/header.jpg?t=1794500922",
+      "steamUrl": "https://store.steampowered.com/app/5492180/",
+      "releaseDate": "2026年11月15日",
+      "comingSoon": true,
+      "originalPrice": null,
+      "currentPrice": null,
+      "currency": null,
+      "discountPercent": 0,
+      "saleEndsAt": null,
+      "offerType": null,
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "アクション",
+        "インディー",
+        "シミュレーション"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語 * * フル音声対応言語",
+      "japaneseSupported": false,
+      "description": "A whacky physics action game about space! In Grand Space Game, take control of a problematic planet that has attracted the attention of many across the cosmos. Smash your way through the galaxy and form objects from the dust for more chaos.",
+      "aiSummary": null,
+      "categories": [
+        "新作"
+      ],
+      "groups": [
+        "coming_soon"
+      ],
+      "ranks": {
+        "coming_soon": 8
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-489830",
+      "appId": 489830,
+      "kind": "game",
+      "title": "The Elder Scrolls V: Skyrim Special Edition",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
+      "steamUrl": "https://store.steampowered.com/app/489830/",
+      "releaseDate": "2016年10月27日",
+      "comingSoon": false,
+      "originalPrice": 4399,
+      "currentPrice": 879,
+      "currency": "JPY",
+      "discountPercent": 80,
+      "saleEndsAt": "2026-11-18T18:00:00.000Z",
+      "offerType": "discount",
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "RPG"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語 * , フランス語 * , イタリア語 * , ドイツ語 * , スペイン語 - スペイン * , ポーランド語 * , 中国語（繁体字）, ロシア語 * , 日本語 * * フル音声対応言語",
+      "japaneseSupported": true,
+      "description": "200以上のGame of the Yearアワードを獲得した『The Elder Scrolls V: Skyrim Special Edition』は、詳細にわたる描写で無限のファンタジーに命を吹き込みます。Special Editionには高い評価を受けた基本ゲームやアドオンに加え、新しい機能が含まれます。",
+      "aiSummary": null,
+      "categories": [
+        "セール"
+      ],
+      "groups": [
+        "specials"
+      ],
+      "ranks": {
+        "specials": 9
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-5300300",
+      "appId": 5300300,
+      "kind": "game",
+      "title": "Elementys",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5300300/2b529bcbcd27f2e44ede2cd1642c036eae54266f/header.jpg?t=1794679215",
+      "steamUrl": "https://store.steampowered.com/app/5300300/",
+      "releaseDate": "2026年11月14日",
+      "comingSoon": false,
+      "originalPrice": 0,
+      "currentPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "saleEndsAt": null,
+      "offerType": "free-to-play",
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "MM（Massively Multiplayer）",
+        "RPG",
+        "無料プレイ"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語, フランス語, ポーランド語, ポルトガル語－ブラジル, トルコ語",
+      "japaneseSupported": false,
+      "description": "Explore a vast pixel-art MMORPG where adventure, progression, crafting, trading, PvE, and ranked PvP shape your journey. Play alone or with others, master your class, conquer powerful bosses, and build your legacy in the world of Elementys.",
+      "aiSummary": null,
+      "categories": [
+        "新作"
+      ],
+      "groups": [
+        "new_releases"
+      ],
+      "ranks": {
+        "new_releases": 9
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-5494840",
+      "appId": 5494840,
+      "kind": "game",
+      "title": "Don’t Drop!!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5494840/c2aa00dbca804340094d4649f87a9fff2e827bf2/header.jpg?t=1794378136",
+      "steamUrl": "https://store.steampowered.com/app/5494840/",
+      "releaseDate": "2026年11月15日",
+      "comingSoon": true,
+      "originalPrice": null,
+      "currentPrice": null,
+      "currency": null,
+      "discountPercent": 0,
+      "saleEndsAt": null,
+      "offerType": null,
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "アクション",
+        "アドベンチャー",
+        "インディー",
+        "ストラテジー"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語",
+      "japaneseSupported": false,
+      "description": "「Don't Drop!!」は、アスレチックゲームの真髄を詰め込んだ、高難易度3Dアクションゲームです。ジャンプ操作のみでボールを操り、塔の頂上を目指しましょう！5種類のギミックそれぞれに個性があり、攻略法を考える楽しみがあります。何度もトライ＆エラーを繰り返し、少しずつクリアできる瞬間をぜひ体験してみよう！",
+      "aiSummary": null,
+      "categories": [
+        "新作"
+      ],
+      "groups": [
+        "coming_soon"
+      ],
+      "ranks": {
+        "coming_soon": 9
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-2536520",
+      "appId": 2536520,
+      "kind": "game",
+      "title": "「ディアブロ II リザレクテッド」 – 「獄炎エディション」",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/d1c9cc9a6d51ad8e54348e66b19eb4fba0d3c4b4/header_japanese.jpg?t=1774399170",
+      "steamUrl": "https://store.steampowered.com/app/2536520/",
+      "releaseDate": "2026年2月11日",
+      "comingSoon": false,
+      "originalPrice": 4800,
+      "currentPrice": 3120,
+      "currency": "JPY",
+      "discountPercent": 35,
+      "saleEndsAt": "2026-11-18T18:00:00.000Z",
+      "offerType": "discount",
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "アクション",
+        "RPG",
+        "ストラテジー"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語 * , フランス語 * , イタリア語 * , ドイツ語 * , スペイン語 - スペイン * , 日本語 * , 韓国語 * , ポーランド語 * , ポルトガル語－ブラジル * , ロシア語 * , スペイン語－ラテンアメリカ * , 中国語（繁体字） * * フル音声対応言語",
+      "japaneseSupported": true,
+      "description": "近代のアクションRPGジャンルを定義づけたダークファンタジーの名作を再発見できる完全リマスター版が登場。新クラス、新たなコンテンツ、快適性のアップグレード、刷新されたエンドゲームコンテンツを楽しめる。最大8名のプレイヤーで強力なスキルやアイテムのシナジーを繋げ、一大勢力として台頭し地獄の軍団を切り裂くことができる。",
+      "aiSummary": null,
+      "categories": [
+        "セール"
+      ],
+      "groups": [
+        "specials"
+      ],
+      "ranks": {
+        "specials": 10
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-5319020",
+      "appId": 5319020,
+      "kind": "game",
+      "title": "Art Shop: Tidy Up!",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5319020/9a5e73f70a32144c817f2c0bc03f3daef0cec413/header.jpg?t=1794681508",
+      "steamUrl": "https://store.steampowered.com/app/5319020/",
+      "releaseDate": "2026年11月14日",
+      "comingSoon": false,
+      "originalPrice": 565,
+      "currentPrice": 508,
+      "currency": "JPY",
+      "discountPercent": 10,
+      "saleEndsAt": null,
+      "offerType": "discount",
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "カジュアル",
+        "インディー",
+        "シミュレーション"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語, フランス語, イタリア語, ドイツ語, スペイン語 - スペイン, 中国語（簡体字）, ポルトガル語－ブラジル, 中国語（繁体字）, 日本語, 韓国語, ポーランド語, ロシア語, トルコ語, デンマーク語, オランダ語, ポルトガル語－ポルトガル",
+      "japaneseSupported": true,
+      "description": "A cozy first-person organizing game set in an art shop of rare and beautiful things. Sort 2,942 fine art supplies and artisan pieces in dozens of distinct forms, shelf by shelf, color by color, and unlock skills as the shop becomes a galler",
+      "aiSummary": null,
+      "categories": [
+        "新作",
+        "セール"
+      ],
+      "groups": [
+        "new_releases"
+      ],
+      "ranks": {
+        "new_releases": 10
+      },
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
+      "reviewsFetchedAt": null,
+      "reviewStatus": "unavailable"
+    },
+    {
+      "id": "steam-5262190",
+      "appId": 5262190,
+      "kind": "game",
+      "title": "Blind Katana: The Ember Keeper",
+      "thumbnail": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5262190/04bd3b74dbe0213a4294038a5c6dd09ca5f767ae/header.jpg?t=1794677264",
+      "steamUrl": "https://store.steampowered.com/app/5262190/",
+      "releaseDate": "2026年11月15日",
+      "comingSoon": true,
+      "originalPrice": 0,
+      "currentPrice": 0,
+      "currency": "JPY",
+      "discountPercent": 0,
+      "saleEndsAt": null,
+      "offerType": "free-to-play",
+      "reviewLabel": null,
+      "reviewCount": null,
+      "positivePercent": null,
+      "reviewScope": "全言語・全購入種別",
+      "genres": [
+        "アクション",
+        "インディー",
+        "RPG",
+        "無料プレイ"
+      ],
+      "tags": [],
+      "supportedLanguages": "英語, 韓国語, ロシア語, 日本語, 中国語（簡体字）",
+      "japaneseSupported": true,
+      "description": "音で敵を見る盲目の剣士のサムライアクションローグライクゲームです。[永遠の夜]に沈んだ世界で、敵の足音は光の波となってその居場所を明かします。闇を読み、斬り、防ぎ、転がりながら敵を処刑しましょう。ステージごとにカードを選んで自分だけの剣術を築き、世界の[火種]を奪った[暁]に立ち向かいましょう。",
+      "aiSummary": null,
+      "categories": [
+        "新作"
+      ],
+      "groups": [
+        "coming_soon"
+      ],
+      "ranks": {
         "coming_soon": 10
       },
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "detailsFetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "detailsFetchedAt": "2026-11-14T23:59:21.979Z",
       "reviewsFetchedAt": null,
       "reviewStatus": "unavailable"
     }
   ],
   "articles": [
+    {
+      "id": "cc4af58ad17457c756c2",
+      "kind": "article",
+      "title": "『League of Legends』大規模アップデートの内容チラ見せ。ビジュアル大刷新&ゲームプレイ変更いろいろありそう",
+      "link": "https://automaton-media.com/articles/newsjp/league-of-legends-20261115-479316",
+      "snippet": "Riot Gamesは11月15日、『League of Legends』向けの大型アップデート「New Dawn」の内容をお披露目した。ビジュアル刷新のほか、ゲームプレイにも変更が加えられそうだ。",
+      "timestamp": 1794695055000,
+      "sourceId": "automaton",
+      "sourceName": "AUTOMATON",
+      "sources": [
+        {
+          "name": "AUTOMATON",
+          "link": "https://automaton-media.com/articles/newsjp/league-of-legends-20261115-479316"
+        }
+      ],
+      "categories": [
+        "ニュース"
+      ],
+      "offerType": null,
+      "gameTitles": [
+        "League of Legends"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "4ac9d2e53dd9e43f7dbf",
+      "kind": "article",
+      "title": "『スター・ウォーズ：ギャラクティック・レーサー』、「ポッドレーサー」の最高速度は“1000km/h”に迫る。速すぎる機体を「エアブレーキ」でねじ曲げる新映像公開",
+      "link": "https://automaton-media.com/articles/newsjp/star-wars-galactic-racer-20261114-479191",
+      "snippet": "パブリッシャーのSecret Modeは9月30日、Lucasfilm Gamesとの協力のもと、Fuse Gamesが手がける『スター・ウォーズ：ギャラクティック・レーサー』の新映像「Under the Hood with Hibi - Episode 4: Podracers」を公開した。",
+      "timestamp": 1794646890000,
+      "sourceId": "automaton",
+      "sourceName": "AUTOMATON",
+      "sources": [
+        {
+          "name": "AUTOMATON",
+          "link": "https://automaton-media.com/articles/newsjp/star-wars-galactic-racer-20261114-479191"
+        }
+      ],
+      "categories": [
+        "ニュース"
+      ],
+      "offerType": null,
+      "gameTitles": [
+        "スター・ウォーズ：ギャラクティック・レーサー",
+        "ポッドレーサー",
+        "エアブレーキ"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "1e4bbc4d7000810c6458",
+      "kind": "article",
+      "title": "週刊Steam広場 第179号：釣りADV「DREADMOOR」や，ローグライク王国ビルダー「9 Kings」が正式リリースに",
+      "link": "https://www.4gamer.net/games/038/G003821/20261114005",
+      "snippet": "今週発売されたSteamの注目タイトルやセール情報をお届けする「週刊Steam広場」。今週は，人類の過ちによる大災害で水没した世界を舞台とする釣りアドベンチャー「DREADMOOR」や，9人の王が覇権を争うローグライク王国ビルダー「9Kings」が正式にリリースされた。",
+      "timestamp": 1794646800000,
+      "sourceId": "4gamer",
+      "sourceName": "4Gamer.net",
+      "sources": [
+        {
+          "name": "4Gamer.net",
+          "link": "https://www.4gamer.net/games/038/G003821/20261114005"
+        }
+      ],
+      "categories": [
+        "ニュース",
+        "新作"
+      ],
+      "offerType": null,
+      "gameTitles": [
+        "DREADMOOR",
+        "9 Kings"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "8644cb584b875097c17b",
+      "kind": "article",
+      "title": "Paradox Interactive「CEO交代」で新体制へ、来年1月から。『Vic2』『Stellaris』『HoI4』などに携わった副CEOが昇進",
+      "link": "https://automaton-media.com/articles/newsjp/paradox-20261114-479296",
+      "snippet": "Paradox Interactiveは11月11日、CEOをFredrik Wester氏からMattias Lilja氏に交代すると発表した。Lilja氏は『Victoria II』や『Stellaris』、『Hearts of Iron IV』などのタイトルに携わった人物で、2027年1月4日から新CEOに就任するようだ。",
+      "timestamp": 1794645532000,
+      "sourceId": "automaton",
+      "sourceName": "AUTOMATON",
+      "sources": [
+        {
+          "name": "AUTOMATON",
+          "link": "https://automaton-media.com/articles/newsjp/paradox-20261114-479296"
+        }
+      ],
+      "categories": [
+        "ニュース"
+      ],
+      "offerType": null,
+      "gameTitles": [
+        "CEO交代",
+        "Vic2",
+        "Stellaris",
+        "HoI4"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "e994b90b9f0144826351",
+      "kind": "article",
+      "title": "ゲーセンとスナックが融合したら？ 秋葉原に「GiGO NEO SNACK」が期間限定オープン",
+      "link": "https://www.4gamer.net/games/991/G999111/20261113054",
+      "snippet": "GENDAGiGOEntertainmentは2026年11月13日，東京・秋葉原のGiGO秋葉原5号館に「GiGONEOSNACK（ギーゴネオスナック）」をオープンした。ゲームセンターと昭和のスナック文化を融合させた施設で，11月30日までの期間限定営業となる。",
+      "timestamp": 1794643200000,
+      "sourceId": "4gamer",
+      "sourceName": "4Gamer.net",
+      "sources": [
+        {
+          "name": "4Gamer.net",
+          "link": "https://www.4gamer.net/games/991/G999111/20261113054"
+        }
+      ],
+      "categories": [
+        "ニュース"
+      ],
+      "offerType": null,
+      "gameTitles": [
+        "GiGO NEO SNACK"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "28873b1c0f1c5b1fdf7a",
+      "kind": "article",
+      "title": "『Factorio』に“Mod不要”の「音楽プレーヤー」を建設した謎の技術者あらわる。約2000個以上のスピーカーで大合奏の「超巨大音楽再生工場」",
+      "link": "https://automaton-media.com/articles/newsjp/20261114-479284",
+      "snippet": "『Factorio』にて、Modを使わずにゲーム内で“音楽”を奏でられるようにしたユーザーがあらわれ、話題となっている。",
+      "timestamp": 1794642537000,
+      "sourceId": "automaton",
+      "sourceName": "AUTOMATON",
+      "sources": [
+        {
+          "name": "AUTOMATON",
+          "link": "https://automaton-media.com/articles/newsjp/20261114-479284"
+        }
+      ],
+      "categories": [
+        "ニュース"
+      ],
+      "offerType": null,
+      "gameTitles": [
+        "Factorio",
+        "音楽プレーヤー",
+        "超巨大音楽再生工場"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "388ecab0fb2fb602b713",
+      "kind": "article",
+      "title": "「勇者パーティはぜんめつしました。」と「病能探偵」がコラボバンドルセールを実施。Steamで高評価を獲得した2作品がセット購入で20％オフに",
+      "link": "https://www.4gamer.net/games/784/G078437/20261114004",
+      "snippet": "FlashlightGamesは，同社がパブリッシングを手がける高湿度・激重感情RPG「勇者パーティはぜんめつしました。」と，デスゲーム推理アドベンチャー「病能探偵」のコラボバンドルセールを，本日（2026年11月14日）16：00から実施すると発表した。両作品の発売記念セールに加え，バンドル購入でさらに10％オフとなる。",
+      "timestamp": 1794639600000,
+      "sourceId": "4gamer",
+      "sourceName": "4Gamer.net",
+      "sources": [
+        {
+          "name": "4Gamer.net",
+          "link": "https://www.4gamer.net/games/784/G078437/20261114004"
+        }
+      ],
+      "categories": [
+        "ニュース",
+        "好評",
+        "セール"
+      ],
+      "offerType": "sale-reported",
+      "gameTitles": [
+        "勇者パーティはぜんめつしました。",
+        "病能探偵"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": [
+        2638080,
+        3432860
+      ]
+    },
+    {
+      "id": "66f1ad78d7aedf2a078f",
+      "kind": "article",
+      "title": "人気オープンワールド『風燕伝：Where Winds Meet』、「新マップ追加」1周年記念アプデ到来。荒れた戦場を舞台に、今一度“義侠”の心に迫る",
+      "link": "https://automaton-media.com/articles/newsjp/20261114-479277",
+      "snippet": "NetEase Gamesは11月14日、『風燕伝：Where Winds Meet』について、グローバル版配信開始1周年を記念してアプデを配信。新エリア「滹沱」や新たなボスの追加などがおこなわれている。",
+      "timestamp": 1794638441000,
+      "sourceId": "automaton",
+      "sourceName": "AUTOMATON",
+      "sources": [
+        {
+          "name": "AUTOMATON",
+          "link": "https://automaton-media.com/articles/newsjp/20261114-479277"
+        }
+      ],
+      "categories": [
+        "ニュース",
+        "話題"
+      ],
+      "offerType": null,
+      "gameTitles": [
+        "風燕伝：Where Winds Meet",
+        "新マップ追加"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "be44953987c9805737b3",
+      "kind": "article",
+      "title": "世界開拓サンドボックスMMORPG『BitCraft Online』正式リリースで再び盛況博す。“資源湧き出し貯水池”実装や日本語正式対応で、「新たなスタート」を切る",
+      "link": "https://automaton-media.com/articles/newsjp/bitcraft-20261114-479269",
+      "snippet": "Clockwork Labsは11月14日、MMORPG『BitCraft Online』を正式リリースした。正式リリースにあたっては、各要素の改善や追加などがおこなわれている。",
+      "timestamp": 1794633769000,
+      "sourceId": "automaton",
+      "sourceName": "AUTOMATON",
+      "sources": [
+        {
+          "name": "AUTOMATON",
+          "link": "https://automaton-media.com/articles/newsjp/bitcraft-20261114-479269"
+        }
+      ],
+      "categories": [
+        "ニュース",
+        "新作"
+      ],
+      "offerType": null,
+      "gameTitles": [
+        "BitCraft Online",
+        "新たなスタート"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "943d17467b7d09c7a813",
+      "kind": "article",
+      "title": "注目の探偵オープンワールド『白銀の城』、“ちゃっかりマイペースメイド”「フェイス」がお披露目される。リリースまで一か月に迫り、新情報続々",
+      "link": "https://automaton-media.com/articles/newsjp/20261114-479264",
+      "snippet": "Elementaは11月14日、『白銀の城』のキャラクター「フェイス」をお披露目した。",
+      "timestamp": 1794629683000,
+      "sourceId": "automaton",
+      "sourceName": "AUTOMATON",
+      "sources": [
+        {
+          "name": "AUTOMATON",
+          "link": "https://automaton-media.com/articles/newsjp/20261114-479264"
+        }
+      ],
+      "categories": [
+        "ニュース",
+        "新作"
+      ],
+      "offerType": null,
+      "gameTitles": [
+        "白銀の城",
+        "フェイス"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "83d3cf8173bdc3c5c908",
+      "kind": "article",
+      "title": "カジュアルなスマホ向け麻雀ゲーム「雀皇麻雀2」，特典がもらえる事前登録受付開始",
+      "link": "https://www.4gamer.net/games/058/G105838/20261114003",
+      "snippet": "スマートフォン向けソフト「雀皇麻雀2」の事前登録受付が始まっている。洗牌なし」などさまざまなモードを搭載し，短時間でサクッと遊べるカジュアルなオンライン麻雀ゲームだ。事前登録することでスキンやコインなどがもらえるという。",
+      "timestamp": 1794627533000,
+      "sourceId": "4gamer",
+      "sourceName": "4Gamer.net",
+      "sources": [
+        {
+          "name": "4Gamer.net",
+          "link": "https://www.4gamer.net/games/058/G105838/20261114003"
+        }
+      ],
+      "categories": [
+        "ニュース"
+      ],
+      "offerType": null,
+      "gameTitles": [
+        "雀皇麻雀2"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "c4afbd1d516f1465a0da",
+      "kind": "article",
+      "title": "恋人たちの“愛の南京錠”10万個撤去シム『Love Locks』発表、12月4日配信へ。発売後はタイムアタックレースも実施、優勝者へのご褒美は“リアル結婚式費用80万円分”",
+      "link": "https://automaton-media.com/articles/newsjp/20261114-479254",
+      "snippet": "Blue Brain Gamesは11月13日、Collision Gamesが手がける『Love Locks』を発表した。本作は橋に取り付けられた10万個もの「愛の南京錠」を撤去する、お片付けシミュレーションゲームだ。",
+      "timestamp": 1794626063000,
+      "sourceId": "automaton",
+      "sourceName": "AUTOMATON",
+      "sources": [
+        {
+          "name": "AUTOMATON",
+          "link": "https://automaton-media.com/articles/newsjp/20261114-479254"
+        }
+      ],
+      "categories": [
+        "ニュース",
+        "新作"
+      ],
+      "offerType": null,
+      "gameTitles": [
+        "Love Locks"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "f4da88189d2c0be4b8a2",
+      "kind": "article",
+      "title": "モナリザを模写！ ただしマウスで！ あと3分以内ね！ 対戦型お絵かきゲーム「Sloppy Forgeries 名画のつもり！」，Steamで本日発売",
+      "link": "https://www.4gamer.net/games/052/G105296/20261113058",
+      "snippet": "タカラトミーは本日（2026年11月14日），対戦型お絵かきゲーム「SloppyForgeries名画のつもり！」をSteamで発売した。本作は，名画を3分以内にマウスで模写し，原画への近さを競うゲームだ。最大8人でのオンライン対戦や，マウスを2つ接続して遊ぶローカル対戦を楽しめる。",
+      "timestamp": 1794625200000,
+      "sourceId": "4gamer",
+      "sourceName": "4Gamer.net",
+      "sources": [
+        {
+          "name": "4Gamer.net",
+          "link": "https://www.4gamer.net/games/052/G105296/20261113058"
+        }
+      ],
+      "categories": [
+        "ニュース",
+        "新作"
+      ],
+      "offerType": null,
+      "gameTitles": [
+        "Sloppy Forgeries 名画のつもり！"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "009ce04981df24d4f976",
+      "kind": "article",
+      "title": "「塊魂」シリーズの王様と王子のフィギュア化を記念した対談インタビューが公開に。新シリーズ「A-SYMBOL」の開発秘話などを語る",
+      "link": "https://www.4gamer.net/games/933/G093375/20261114002",
+      "snippet": "プライム1スタジオは2026年11月13日，同社が展開する新フィギュアシリーズ「A-SYMBOL」の第1弾として商品化される「塊魂」シリーズの王様，王子について，「ワンス・アポン・ア・塊魂」のプロデューサー，石田僚氏と同社開発スタッフによる対談インタビューページを公開した。",
+      "timestamp": 1794625200000,
+      "sourceId": "4gamer",
+      "sourceName": "4Gamer.net",
+      "sources": [
+        {
+          "name": "4Gamer.net",
+          "link": "https://www.4gamer.net/games/933/G093375/20261114002"
+        }
+      ],
+      "categories": [
+        "ニュース"
+      ],
+      "offerType": null,
+      "gameTitles": [
+        "塊魂",
+        "A-SYMBOL"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "3f407ea50d6bf49c4191",
+      "kind": "article",
+      "title": "自由に紡いでいける，自分だけの冒険譚「Terraria+」2Dサンドボックスの名作を味わおう（今日から始めろApple Arcade #89）",
+      "link": "https://www.4gamer.net/games/057/G105716/20261113027",
+      "snippet": "毎月4の付く日（4日，14日，24日）に掲載する連載「今日から始めろAppleArcade」では，「AppleArcade」で配信中の200タイトル以上のゲームのなかから毎回1本をチョイスし，オススメポイントを紹介していく。第89回では，「Terraria+」を紹介する。",
+      "timestamp": 1794625200000,
+      "sourceId": "4gamer",
+      "sourceName": "4Gamer.net",
+      "sources": [
+        {
+          "name": "4Gamer.net",
+          "link": "https://www.4gamer.net/games/057/G105716/20261113027"
+        }
+      ],
+      "categories": [
+        "ニュース"
+      ],
+      "offerType": null,
+      "gameTitles": [
+        "Terraria+"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "4c79f0c0ae7869ed30e3",
+      "kind": "article",
+      "title": "SteamOS 3.10.0 Preview",
+      "link": "https://store.steampowered.com/news/app/1675200/view/687522235410285333",
+      "snippet": "Note: This update is for the Steam Deck Preview channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. Note on Preview Releases This is an early Preview build of S",
+      "timestamp": 1794621859000,
+      "sourceId": "steam-news",
+      "sourceName": "Steam公式",
+      "sources": [
+        {
+          "name": "Steam公式",
+          "link": "https://store.steampowered.com/news/app/1675200/view/687522235410285333"
+        }
+      ],
+      "categories": [
+        "ニュース"
+      ],
+      "offerType": null,
+      "gameTitles": [],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "0e1a9cf17da4a3df1451",
+      "kind": "article",
+      "title": "ゲーム開発者による「木の後ろにキャラがいるとき、どう見せるか」談義が白熱。“木スケスケ技法”か“キャラシルエット化”か、隠れた難題",
+      "link": "https://automaton-media.com/articles/newsjp/20261113-479219",
+      "snippet": "ある開発者の「キャラクターが木の後ろに移動したとき、どうしますか？」という投稿が注目を集めている。日頃あまり気にしないようなゲームのちょっとした仕様の違いについて活発な議論がおこなわれている。",
+      "timestamp": 1794621688000,
+      "sourceId": "automaton",
+      "sourceName": "AUTOMATON",
+      "sources": [
+        {
+          "name": "AUTOMATON",
+          "link": "https://automaton-media.com/articles/newsjp/20261113-479219"
+        }
+      ],
+      "categories": [
+        "ニュース"
+      ],
+      "offerType": null,
+      "gameTitles": [
+        "木の後ろにキャラがいるとき、どう見せるか"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "94a86ca7d3ee02518ad6",
+      "kind": "article",
+      "title": "SteamOS 0.5.9 Beta for Steam Frame",
+      "link": "https://store.steampowered.com/news/app/4165890/view/687522235410285323",
+      "snippet": "SteamOS 0.5.9 (for Steam Frame) has just been released. This update is for the Steam Frame Beta channel, and includes new features that are still being tested. You can opt into this in Settings > System > System Update Channel. Camera Pass ",
+      "timestamp": 1794620195000,
+      "sourceId": "steam-news",
+      "sourceName": "Steam公式",
+      "sources": [
+        {
+          "name": "Steam公式",
+          "link": "https://store.steampowered.com/news/app/4165890/view/687522235410285323"
+        }
+      ],
+      "categories": [
+        "ニュース"
+      ],
+      "offerType": null,
+      "gameTitles": [],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
+    {
+      "id": "ccdfb99140cd0d3fdcd2",
+      "kind": "article",
+      "title": "「ドラゴンクエスト」と「ファイナルファンタジー」のコラボイベントが開催中。両IPの人気キャラクターが，横浜・みなとみらいのクリスマスとニューイヤーを彩る",
+      "link": "https://www.4gamer.net/games/991/G999111/20261113057",
+      "snippet": "スクウェア・エニックスの2大RPGシリーズによる初のコラボリアルイベントが登場。ランドマークプラザやMARKISみなとみらいを舞台にした巨大ツリーやオブジェ，コラボカフェのオリジナルメニュー，限定グッズが並ぶポップアップストアなど，メディアツアーで公開された会場の見どころをお届けする。",
+      "timestamp": 1794618000000,
+      "sourceId": "4gamer",
+      "sourceName": "4Gamer.net",
+      "sources": [
+        {
+          "name": "4Gamer.net",
+          "link": "https://www.4gamer.net/games/991/G999111/20261113057"
+        }
+      ],
+      "categories": [
+        "ニュース",
+        "話題",
+        "イベント"
+      ],
+      "offerType": null,
+      "gameTitles": [
+        "ドラゴンクエスト",
+        "ファイナルファンタジー"
+      ],
+      "releaseDate": null,
+      "saleInfo": null,
+      "eventPeriod": null,
+      "aiSummary": null,
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
+      "relatedAppIds": []
+    },
     {
       "id": "faf4aa67e53240f73352",
       "kind": "article",
@@ -1602,7 +2093,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -1632,7 +2123,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -1661,7 +2152,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -1691,7 +2182,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -1721,7 +2212,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -1752,7 +2243,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -1781,7 +2272,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -1811,7 +2302,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -1841,7 +2332,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -1871,7 +2362,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -1900,7 +2391,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -1929,7 +2420,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -1960,7 +2451,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -1989,7 +2480,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -2018,65 +2509,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "b426ad816247a9c2b816",
-      "kind": "article",
-      "title": "100人規模で邪神に挑め。リアル脱出ゲーム「混沌這い寄る教団からの脱出」先行体験レポート。アンバサダー・佐野史郎氏とディズム氏のコメントも",
-      "link": "https://www.4gamer.net/games/236/G023687/20261111001",
-      "snippet": "リアル脱出ゲームを企画制作するSCRAPの最新作「混沌這い寄る教団からの脱出」の先行体験会が2026年10月28日，新宿の東京ミステリーサーカスで開催された。アンバサダーとして佐野史郎氏とディズム氏も応援に駆けつけたこのイベントをレポートする。",
-      "timestamp": 1794568270000,
-      "sourceId": "4gamer",
-      "sourceName": "4Gamer.net",
-      "sources": [
-        {
-          "name": "4Gamer.net",
-          "link": "https://www.4gamer.net/games/236/G023687/20261111001"
-        }
-      ],
-      "categories": [
-        "ニュース"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "混沌這い寄る教団からの脱出"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "4053759581aa27816430",
-      "kind": "article",
-      "title": "「P5X」，Ver.4.13アップデートを実施。メインストーリー第4章が完結",
-      "link": "https://www.4gamer.net/games/693/G069335/20261113050",
-      "snippet": "",
-      "timestamp": 1794568270000,
-      "sourceId": "4gamer",
-      "sourceName": "4Gamer.net",
-      "sources": [
-        {
-          "name": "4Gamer.net",
-          "link": "https://www.4gamer.net/games/693/G069335/20261113050"
-        }
-      ],
-      "categories": [
-        "ニュース"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "P5X"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -2105,127 +2538,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "eba9c3ec5ca7a8fb4027",
-      "kind": "article",
-      "title": "ただ祈って朝ごはんを作る。手描きアニメのほっこりとしたADV「朝餉（ASAGE）」，本日発売。140円で買える",
-      "link": "https://www.4gamer.net/games/058/G105835/20261113044",
-      "snippet": "個人ゲーム開発者のさとうちひろ氏は本日（2026年11月13日），PCゲーム「朝餉（ASAGE）」をSteamで発売した。本作は，青緑色の森を舞台に朝ごはんを作る短編アドベンチャーゲームだ。",
-      "timestamp": 1794567419000,
-      "sourceId": "4gamer",
-      "sourceName": "4Gamer.net",
-      "sources": [
-        {
-          "name": "4Gamer.net",
-          "link": "https://www.4gamer.net/games/058/G105835/20261113044"
-        }
-      ],
-      "categories": [
-        "ニュース",
-        "新作"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "朝餉（ASAGE）"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "966618c72854f9c4c8c5",
-      "kind": "article",
-      "title": "映画「アングリーバード／大奮闘！ファミリー・ミッション」，本予告を公開",
-      "link": "https://www.4gamer.net/games/149/G014980/20261113046",
-      "snippet": "",
-      "timestamp": 1794567338000,
-      "sourceId": "4gamer",
-      "sourceName": "4Gamer.net",
-      "sources": [
-        {
-          "name": "4Gamer.net",
-          "link": "https://www.4gamer.net/games/149/G014980/20261113046"
-        }
-      ],
-      "categories": [
-        "ニュース"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "アングリーバード／大奮闘！ファミリー・ミッション"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "7679276b6eb8b5992e4a",
-      "kind": "article",
-      "title": "リズムアクション「ピアスゲーム」，Steamで本日発売。ビートに合わせてパネルを順番に割り，失敗したら幼馴染の耳にピアスの穴を開ける",
-      "link": "https://www.4gamer.net/games/058/G105831/20261113039",
-      "snippet": "BuriGamesは本日，PCゲーム「ピアスゲーム」をSteamで発売した。本作は，失敗すると幼馴染の耳にピアスの穴を開けることになるリズムアクションゲームだ。プレイヤーは，ビートに合わせて尖った道具を振り下ろし，パネルを順番に割っていく。全59ステージが用意されている。",
-      "timestamp": 1794566528000,
-      "sourceId": "4gamer",
-      "sourceName": "4Gamer.net",
-      "sources": [
-        {
-          "name": "4Gamer.net",
-          "link": "https://www.4gamer.net/games/058/G105831/20261113039"
-        }
-      ],
-      "categories": [
-        "ニュース",
-        "新作"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "ピアスゲーム"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "65dde8e04a7a5383fa45",
-      "kind": "article",
-      "title": "生配信されるデスゲームで生き残りを目指しつつ，過激なアクションで「いいね」を稼いでいく。最大4人で遊べるパーティーゲーム「Cartastrophe」発表，2027年第1四半期に発売予定",
-      "link": "https://www.4gamer.net/games/058/G105832/20261113040",
-      "snippet": "LowTideGamesは本日，PC向け新作「Cartastrophe」を発表した。本作は，ネットで生配信されるデスゲームを舞台に，過激なアクションで「いいね」を稼ぎながら，最後の1人になるまで戦うパーティーゲームだ。",
-      "timestamp": 1794565251000,
-      "sourceId": "4gamer",
-      "sourceName": "4Gamer.net",
-      "sources": [
-        {
-          "name": "4Gamer.net",
-          "link": "https://www.4gamer.net/games/058/G105832/20261113040"
-        }
-      ],
-      "categories": [
-        "ニュース",
-        "新作"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "いいね",
-        "Cartastrophe"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -2257,7 +2570,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -2287,7 +2600,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -2316,66 +2629,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "893f79e5bdeb42ebd032",
-      "kind": "article",
-      "title": "「THE KING OF FIGHTERS for GIRLS」公式Xアカウントが不正利用される。アカウント名やIDなどが変更され，関係のない内容に",
-      "link": "https://www.4gamer.net/games/464/G046449/20261113038",
-      "snippet": "",
-      "timestamp": 1794562855000,
-      "sourceId": "4gamer",
-      "sourceName": "4Gamer.net",
-      "sources": [
-        {
-          "name": "4Gamer.net",
-          "link": "https://www.4gamer.net/games/464/G046449/20261113038"
-        }
-      ],
-      "categories": [
-        "ニュース"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "THE KING OF FIGHTERS for GIRLS"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "fbfb91e67bd9994901a5",
-      "kind": "article",
-      "title": "「BOMBANANA!」の家庭用ゲーム機版がPS5，XBOX Series X|S，XBOX Oneで本日発売。Steam版の販売本数は200万本を突破",
-      "link": "https://www.4gamer.net/games/058/G105820/20261113024",
-      "snippet": "TARKGamesは2026年11月13日，「BOMBANANA!」の家庭用ゲーム機版（PS5/XBOXSeriesX|S/XBOXOne）を発売した。本作は，見えない・聞こえない・話せないという異なる制約を持つ3匹の猿が協力して爆弾解除に挑むオンライン協力型パーティーゲームだ。",
-      "timestamp": 1794562707000,
-      "sourceId": "4gamer",
-      "sourceName": "4Gamer.net",
-      "sources": [
-        {
-          "name": "4Gamer.net",
-          "link": "https://www.4gamer.net/games/058/G105820/20261113024"
-        }
-      ],
-      "categories": [
-        "ニュース",
-        "新作"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "BOMBANANA!"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -2406,7 +2660,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -2437,7 +2691,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -2468,7 +2722,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -2499,280 +2753,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "5b8fe0002f29366d0ee6",
-      "kind": "article",
-      "title": "AAA級ゲーム開発では、今や「内製エンジン」採用が50％超えとの調査データ。とうとうUnreal Engineのシェアを追い越す",
-      "link": "https://automaton-media.com/articles/newsjp/20261113-479125",
-      "snippet": "Game Developers Conferenceによる業界調査レポート「State of the Game Industry: November 2026」が公開された。それによると、AAA級のゲーム開発現場においては、内製エンジンの採用率が上昇しているようだ。",
-      "timestamp": 1794553569000,
-      "sourceId": "automaton",
-      "sourceName": "AUTOMATON",
-      "sources": [
-        {
-          "name": "AUTOMATON",
-          "link": "https://automaton-media.com/articles/newsjp/20261113-479125"
-        }
-      ],
-      "categories": [
-        "ニュース"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "内製エンジン"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "91c5d7b26a4079e4f485",
-      "kind": "article",
-      "title": "『パルワールド』開発元ポケットペアが「11月19日」より連休宣言、今回は5連休で過去最長。社員が暴れかねないので",
-      "link": "https://automaton-media.com/articles/newsjp/20261113-479115",
-      "snippet": "ポケットペアは11月12日、従業員に対して11月19日から23日まで特別休暇を与えることを発表した。社内で暴動が起きそうなためだという。",
-      "timestamp": 1794545615000,
-      "sourceId": "automaton",
-      "sourceName": "AUTOMATON",
-      "sources": [
-        {
-          "name": "AUTOMATON",
-          "link": "https://automaton-media.com/articles/newsjp/20261113-479115"
-        }
-      ],
-      "categories": [
-        "ニュース"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "パルワールド",
-        "11月19日"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "bbabbc998e95664d874e",
-      "kind": "article",
-      "title": "戦闘は「後出しじゃんけん」な変則デッキ構築ローグライク『Handmancers』正式リリース。ここぞの所で“勝負手”をきめる、グーチョキパー奥深バトル",
-      "link": "https://automaton-media.com/articles/newsjp/20261113-479104",
-      "snippet": "Human Qube Gamesは11月13日、58BLADESが手がけるローグライトデッキ構築ゲーム『Handmancers』を正式リリースした。",
-      "timestamp": 1794544547000,
-      "sourceId": "automaton",
-      "sourceName": "AUTOMATON",
-      "sources": [
-        {
-          "name": "AUTOMATON",
-          "link": "https://automaton-media.com/articles/newsjp/20261113-479104"
-        }
-      ],
-      "categories": [
-        "ニュース",
-        "新作"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "後出しじゃんけん",
-        "Handmancers"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "306e5b419739ce21845f",
-      "kind": "article",
-      "title": "ステンドグラスお掃除&修復シム『Piece and Quiet: A Stained Glass Restoration』11月27日配信へ。「2655個」の破片をゆったり直す、たまには“妖精”の手も借りる",
-      "link": "https://automaton-media.com/articles/newsjp/20261113-479095",
-      "snippet": "Spaghetti Catは、Vahov gamesが手がける『Piece and Quiet: A Stained Glass Restoration』を11月27日に配信開始すると発表した。本作はステンドグラスの修復を題材とする整理整頓シミュレーションゲームだ。",
-      "timestamp": 1794543667000,
-      "sourceId": "automaton",
-      "sourceName": "AUTOMATON",
-      "sources": [
-        {
-          "name": "AUTOMATON",
-          "link": "https://automaton-media.com/articles/newsjp/20261113-479095"
-        }
-      ],
-      "categories": [
-        "ニュース"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "Piece and Quiet: A Stained Glass Restoration",
-        "2655個"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "a9ac6d7d2ed20de1e1ea",
-      "kind": "article",
-      "title": "ナチスぶっ潰しFPS『Wolfenstein 3』発表。人気シリーズ約9年ぶりのナンバリング新作、謎の「ナチトラズ」ちら見せ",
-      "link": "https://automaton-media.com/articles/newsjp/20261113-479080",
-      "snippet": "人気FPS『Wolfenstein』シリーズ最新作『Wolfenstein 3』が制作中であることが明かされた。",
-      "timestamp": 1794540885000,
-      "sourceId": "automaton",
-      "sourceName": "AUTOMATON",
-      "sources": [
-        {
-          "name": "AUTOMATON",
-          "link": "https://automaton-media.com/articles/newsjp/20261113-479080"
-        }
-      ],
-      "categories": [
-        "ニュース",
-        "話題",
-        "新作"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "Wolfenstein 3",
-        "ナチトラズ"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "fd5d9e385b3c5f508209",
-      "kind": "article",
-      "title": "『パルワールド オフィシャルカードゲーム』売れまくりでブシロード大幅増収。発売当初は売り切れ多発、海外でも熱い人気",
-      "link": "https://automaton-media.com/articles/newsjp/20261113-479068",
-      "snippet": "ブシロードは11月12日、2027年6月期第一四半期の決算を発表した。）『パルワールド オフィシャルカードゲーム』の好調が大きく影響しているようだ。",
-      "timestamp": 1794540759000,
-      "sourceId": "automaton",
-      "sourceName": "AUTOMATON",
-      "sources": [
-        {
-          "name": "AUTOMATON",
-          "link": "https://automaton-media.com/articles/newsjp/20261113-479068"
-        }
-      ],
-      "categories": [
-        "ニュース",
-        "話題",
-        "新作"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "パルワールド オフィシャルカードゲーム"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "e44a7a4d7b1e90fa3bac",
-      "kind": "article",
-      "title": "『スター・ウォーズ：ギャラクティック・レーサー』新マシン「スキムスピーダー」は、勢いに乗れば“最速級”。鋭いコーナーを攻める新映像公開",
-      "link": "https://automaton-media.com/articles/newsjp/star-wars-galactic-racer-20261112-478749",
-      "snippet": "パブリッシャーのSecret Modeは9月11日、Fuse Gamesが手がける『スター・ウォーズ：ギャラクティック・レーサー』の新映像「Under the Hood with Hibi - Episode 3: Skim Speeders」を公開した。",
-      "timestamp": 1794539807000,
-      "sourceId": "automaton",
-      "sourceName": "AUTOMATON",
-      "sources": [
-        {
-          "name": "AUTOMATON",
-          "link": "https://automaton-media.com/articles/newsjp/star-wars-galactic-racer-20261112-478749"
-        }
-      ],
-      "categories": [
-        "ニュース"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "スター・ウォーズ：ギャラクティック・レーサー",
-        "スキムスピーダー"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "923a122596264ec5b097",
-      "kind": "article",
-      "title": "マダガスカル人が作ったゲーム『Kalanoro（カラノロ）』で“知らない南国”大量摂取、純度100％マダガスカルを浴びる。ずっと陽気、ずっとよくわからん、それがいい",
-      "link": "https://automaton-media.com/articles/reportjp/kalanoro-20261113-479060",
-      "snippet": "筆者人生初の“マダガスカル産”ゲーム『カラノロ』のゲームプレイとともに、魅力あふれるマダガスカルの文化や歴史についても紹介していきたい。",
-      "timestamp": 1794539237000,
-      "sourceId": "automaton",
-      "sourceName": "AUTOMATON",
-      "sources": [
-        {
-          "name": "AUTOMATON",
-          "link": "https://automaton-media.com/articles/reportjp/kalanoro-20261113-479060"
-        }
-      ],
-      "categories": [
-        "ニュース"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "Kalanoro（カラノロ）"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "relatedAppIds": []
-    },
-    {
-      "id": "ed062aed8e38497a258c",
-      "kind": "article",
-      "title": "「ガルパン」新作ゲーム『ガールズ＆パンツァー オールスター・タンク・カーニバル』来年3月25日発売へ。クロスプレイ対応の白熱“戦車道”に、ぶらり大洗まち歩き",
-      "link": "https://automaton-media.com/articles/newsjp/20261113-479064",
-      "snippet": "ディースリー・パブリッシャーは11月13日、『ガールズ＆パンツァー オールスター・タンク・カーニバル』を2027年3月25日に発売すると告知した。",
-      "timestamp": 1794539005000,
-      "sourceId": "automaton",
-      "sourceName": "AUTOMATON",
-      "sources": [
-        {
-          "name": "AUTOMATON",
-          "link": "https://automaton-media.com/articles/newsjp/20261113-479064"
-        }
-      ],
-      "categories": [
-        "ニュース",
-        "新作"
-      ],
-      "offerType": null,
-      "gameTitles": [
-        "ガルパン",
-        "ガールズ＆パンツァー オールスター・タンク・カーニバル"
-      ],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -2799,7 +2780,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -2826,7 +2807,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     },
     {
@@ -2842,10 +2823,6 @@
         {
           "name": "Steam公式",
           "link": "https://store.steampowered.com/news/app/4165890/view/687522235410284763"
-        },
-        {
-          "name": "Steam公式",
-          "link": "https://store.steampowered.com/news/app/1675200/view/687522235410284741"
         }
       ],
       "categories": [
@@ -2857,38 +2834,7 @@
       "saleInfo": null,
       "eventPeriod": null,
       "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
-      "mergedIds": [
-        "53bbb2935fc43d9e329a"
-      ],
-      "relatedAppIds": []
-    },
-    {
-      "id": "35269a7a17da8f861327",
-      "kind": "article",
-      "title": "Steam実績セット機能を全ユーザー向けにリリース",
-      "link": "https://store.steampowered.com/news/app/593110/view/685269908095762671",
-      "snippet": "本日、Steam実績セットと新しい実績ページを含む最新の実績アップデートが、すべてのSteamユーザーに向けてリリースされました。 実績セットは、ゲーム内の実績を整理するのに最適な機能です。これにより、プレイヤーは実績の進捗状況を確認しやすくなり、ゲームに新しく追加される実績も見つけやすくなります。また、ゲームに新しい実績や実績付きの新しいDLCが追加されても、それまでのゲームのコンプリート状況が損なわれることもありません。 ブログ記事の全文はこちらからお読みいただけますが、",
-      "timestamp": 1794434298000,
-      "sourceId": "steam-news",
-      "sourceName": "Steam公式",
-      "sources": [
-        {
-          "name": "Steam公式",
-          "link": "https://store.steampowered.com/news/app/593110/view/685269908095762671"
-        }
-      ],
-      "categories": [
-        "ニュース",
-        "新作"
-      ],
-      "offerType": null,
-      "gameTitles": [],
-      "releaseDate": null,
-      "saleInfo": null,
-      "eventPeriod": null,
-      "aiSummary": null,
-      "fetchedAt": "2026-11-14T00:55:47.315Z",
+      "fetchedAt": "2026-11-14T23:59:21.979Z",
       "relatedAppIds": []
     }
   ],
@@ -2905,7 +2851,7 @@
       "categories": [
         "イベント"
       ],
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "event-1aa496afc66f172b95d8",
@@ -2919,7 +2865,7 @@
       "categories": [
         "イベント"
       ],
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "event-f2f1c956ad7b299b3192",
@@ -2933,7 +2879,7 @@
       "categories": [
         "イベント"
       ],
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "event-b30c6e9dcc01cfda70f6",
@@ -2947,7 +2893,7 @@
       "categories": [
         "イベント"
       ],
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "event-d66604090c7f4a7793e5",
@@ -2961,7 +2907,7 @@
       "categories": [
         "イベント"
       ],
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "event-2ce918bf9f62cdfc47e4",
@@ -2975,7 +2921,7 @@
       "categories": [
         "イベント"
       ],
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "event-f6764dfaefa802475b21",
@@ -2989,7 +2935,7 @@
       "categories": [
         "イベント"
       ],
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "event-dc2796f8835e1415bc18",
@@ -3003,7 +2949,7 @@
       "categories": [
         "イベント"
       ],
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "event-1a19f132977af5347bee",
@@ -3017,7 +2963,7 @@
       "categories": [
         "イベント"
       ],
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "event-aab1dfd3dc40211b0d92",
@@ -3031,7 +2977,7 @@
       "categories": [
         "イベント"
       ],
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "event-ab6a1c6a414e4182eddb",
@@ -3045,7 +2991,7 @@
       "categories": [
         "イベント"
       ],
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "event-e0a8db09e332debd6308",
@@ -3059,7 +3005,7 @@
       "categories": [
         "イベント"
       ],
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "event-b700276d1bfa8412d679",
@@ -3073,7 +3019,7 @@
       "categories": [
         "イベント"
       ],
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "event-fdeac0588ae24dec95a8",
@@ -3087,7 +3033,7 @@
       "categories": [
         "イベント"
       ],
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     }
   ],
   "sources": [
@@ -3096,37 +3042,37 @@
       "name": "4Gamer.net",
       "status": "ok",
       "count": 20,
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "automaton",
       "name": "AUTOMATON",
       "status": "ok",
       "count": 20,
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "steam-news",
       "name": "Steam公式",
       "status": "ok",
       "count": 5,
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "steam",
       "name": "Steamストア",
       "status": "partial",
-      "count": 36,
+      "count": 34,
       "detailErrors": 0,
-      "reviewErrors": 25,
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "reviewErrors": 24,
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     },
     {
       "id": "steam-calendar",
       "name": "Steam公式日程",
       "status": "ok",
       "count": 14,
-      "fetchedAt": "2026-11-14T00:55:47.315Z"
+      "fetchedAt": "2026-11-14T23:59:21.979Z"
     }
   ],
   "ai": {
